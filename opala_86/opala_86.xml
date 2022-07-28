@@ -16,6 +16,22 @@
         <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Pink.dds" />
     </LIVERY_OVERRIDE>
 
+    <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="60" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="61" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="63" NAME="AMSU 42" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="ams2cc-opala86-amsu\amsu--42--preview.DDS" />
