@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- RPM -->
+    <LIVERY_OVERRIDE LIVERY="57" NAME="RPM League #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview33.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\opala33.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="RPM League #53" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview53.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\opala53.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="RPM League #86" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\opala86.dds" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
