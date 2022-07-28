@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- AMS2CC -->
+    <LIVERY_OVERRIDE LIVERY="69" NAME="AMS2CC Orange" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\basic--orange--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="AMS2CC Grey" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\basic--grey--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--grey.DDS" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
