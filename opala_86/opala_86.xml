@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
+    <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Blue" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Opala_Thumb_Blue.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Blue.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Red" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Opala_Thumb_Red.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Red.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Kerb Clippers Pink" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Opala_Thumb_Pink.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Pink.dds" />
+    </LIVERY_OVERRIDE>
+
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="63" NAME="AMSU 42" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="ams2cc-opala86-amsu\amsu--42--preview.DDS" />
