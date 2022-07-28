@@ -83,17 +83,17 @@
     <!-- PRC -->
     <LIVERY_OVERRIDE LIVERY="66" NAME="PRC" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="prc\prc--preview.DDS" />
-        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+        <TEXTURE NAME="BODY" PATH="prc\basic--orange.DDS" />
     </LIVERY_OVERRIDE>
 
     <LIVERY_OVERRIDE LIVERY="67" NAME="PRC" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="prc\prc--preview.DDS" />
-        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+        <TEXTURE NAME="BODY" PATH="prc\basic--orange.DDS" />
     </LIVERY_OVERRIDE>
 
     <LIVERY_OVERRIDE LIVERY="68" NAME="PRC" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="prc\prc--preview.DDS" />
-        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+        <TEXTURE NAME="BODY" PATH="prc\basic--orange.DDS" />
     </LIVERY_OVERRIDE>
 
     <!-- AMS2CC -->
