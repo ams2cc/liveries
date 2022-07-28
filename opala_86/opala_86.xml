@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="60" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="61" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
