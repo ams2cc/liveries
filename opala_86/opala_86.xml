@@ -2,17 +2,17 @@
 <USER_OVERRIDES>
     <!-- NRT -->
     <LIVERY_OVERRIDE LIVERY="54" NAME="NRT" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="nrt\nrt--preview.DDS" />
-        <TEXTURE NAME="BODY" PATH="nrt\NRT_A.dds" />
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_A.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_A.DDS" />
     </LIVERY_OVERRIDE>
 
     <LIVERY_OVERRIDE LIVERY="55" NAME="NRT" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="nrt\nrt--preview.DDS" />
-        <TEXTURE NAME="BODY" PATH="nrt\NRT_B.dds" />
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_B.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_B.DDS" />
     </LIVERY_OVERRIDE>
 
     <LIVERY_OVERRIDE LIVERY="56" NAME="NRT" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="nrt\nrt--preview.DDS" />
-        <TEXTURE NAME="BODY" PATH="nrt\NRT_C.dds" />
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_C.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_C.DDS" />
     </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
