@@ -64,6 +64,22 @@
         <TEXTURE NAME="BODY" PATH="ams2cc-opala86-amsu\amsu--48.DDS" />
     </LIVERY_OVERRIDE>
 
+    <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="66" NAME="PRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\prc--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="67" NAME="PRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\prc--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="68" NAME="PRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\prc--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+    </LIVERY_OVERRIDE>
+
     <!-- AMS2CC -->
     <LIVERY_OVERRIDE LIVERY="69" NAME="AMS2CC Orange" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="ams2cc\basic--orange--preview.DDS" />
