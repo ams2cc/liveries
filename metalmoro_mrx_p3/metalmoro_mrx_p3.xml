@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- KCSR -->
+    <!-- <LIVERY_OVERRIDE LIVERY="51" NAME="MGT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+    
+    <!-- NRT -->
+    <!-- <LIVERY_OVERRIDE LIVERY="52" NAME="NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- RPM -->
+    <!-- <LIVERY_OVERRIDE LIVERY="53" NAME="RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+    
+    <!-- MGT -->
+    <!-- <LIVERY_OVERRIDE LIVERY="54" NAME="MGT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- AMSU -->
+    <!-- <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- PRC -->
+    <!-- <LIVERY_OVERRIDE LIVERY="56" NAME="PRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- AMS2CC -->
+    <!-- <LIVERY_OVERRIDE LIVERY="57" NAME="AMS2CC: Grey" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+
+    <!-- <LIVERY_OVERRIDE LIVERY="58" NAME="AMS2CC: Orange" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="" />
+        <TEXTURE NAME="BODY" PATH="" />
+    </LIVERY_OVERRIDE> -->
+</USER_OVERRIDES>
