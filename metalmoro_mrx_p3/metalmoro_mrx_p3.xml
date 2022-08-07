@@ -6,6 +6,12 @@
         <TEXTURE NAME="BODY" PATH="kcsr\KC_mrxp3.dds" />
     </LIVERY_OVERRIDE>
     
+    <!-- RPM -->
+    <LIVERY_OVERRIDE LIVERY="53" NAME="RPM League #86" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\rpm86.dds" />
+    </LIVERY_OVERRIDE>
+    
     <!-- PRC -->
     <LIVERY_OVERRIDE LIVERY="56" NAME="Phoenix Racing" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="prc\PRC_mrxp3_Thumb.dds" />
