@@ -5,4 +5,10 @@
         <PREVIEWIMAGE PATH="kcsr\KC_mrxp3_Thumb.dds" />
         <TEXTURE NAME="BODY" PATH="kcsr\KC_mrxp3.dds" />
     </LIVERY_OVERRIDE>
+    
+    <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Phoenix Racing" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\PRC_mrxp3_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_mrxp3.dds" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
