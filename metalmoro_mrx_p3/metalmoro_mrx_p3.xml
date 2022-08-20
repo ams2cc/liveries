@@ -6,6 +6,12 @@
         <TEXTURE NAME="BODY" PATH="kcsr\KC_mrxp3.dds" />
     </LIVERY_OVERRIDE>
     
+    <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="52" NAME="NRT #75" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_A.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_A.DDS" />
+    </LIVERY_OVERRIDE>
+    
     <!-- RPM -->
     <LIVERY_OVERRIDE LIVERY="53" NAME="RPM League #86" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="rpm\preview86.dds" />
