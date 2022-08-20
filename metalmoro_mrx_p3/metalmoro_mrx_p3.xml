@@ -12,6 +12,12 @@
         <TEXTURE NAME="BODY" PATH="rpm\rpm86.dds" />
     </LIVERY_OVERRIDE>
     
+    <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="54" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="mgt\MoonieGTpreview.dds"/>
+        <TEXTURE NAME="BODY" PATH="mgt\MoonieGTMetalmoroMRX.dds"/>
+    </LIVERY_OVERRIDE>
+    
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="amsu\amsu--preview.DDS" />
