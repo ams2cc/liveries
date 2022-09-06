@@ -23,10 +23,10 @@
     
     <!-- PRC -->
     <LIVERY_OVERRIDE LIVERY="56" NAME="PRC" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="prc\PRC_M8GTE_thumb.dds" />
-        <TEXTURE NAME="BODY" PATH="prc\PRC_M8GTE.dds" />
-        <TEXTURE NAME="SPEC" PATH="prc\PRC_M8GTE_spec.dds" />
-    </LIVERY_OVERRIDE>
+        <PREVIEWIMAGE PATH="prc\PRC_992RSR_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_992RSR.dds" />
+        <TEXTURE NAME="SPEC" PATH="prc\PRC_992RSR_spec.dds" />
+    </LIVERY_OVERRIDE> 
     
     <!-- AMS2CC -->
 
