@@ -33,6 +33,11 @@
     <!-- AMSU -->
     
     <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="56" NAME="PRC" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="prc\PRC_C8R_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_C8R.dds" />
+        <TEXTURE NAME="SPEC" PATH="prc\PRC_C8R_spec.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- AMS2CC -->
 
