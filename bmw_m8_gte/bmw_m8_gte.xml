@@ -19,6 +19,10 @@
     <!-- MGT -->
     
     <!-- AMSU -->
+    <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="amsu\amsu--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="amsu\amsu-bmw-body.DDS" />
+    </LIVERY_OVERRIDE>
     
     <!-- PRC -->
     
