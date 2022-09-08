@@ -12,6 +12,12 @@
     -->
 
     <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Drew" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\KC_992RSR_Drew_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\KC_992RSR_Drew.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\KC_992RSR_Drew_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\KC_992RSR_Drew_fresnel.dds" />
+    </LIVERY_OVERRIDE> 
     
     <!-- NRT -->
     

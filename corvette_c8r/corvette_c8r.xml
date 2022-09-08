@@ -11,6 +11,18 @@
     -->
 
     <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Jonny" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\KC_C8R_Jonny_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\KC_C8R_Jonny.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\KC_C8R_Jonny_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\KC_C8R_Jonny_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\KC_C8R_Blank_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\KC_C8R_Blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\KC_C8R_Blank_spec.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- NRT -->
     
