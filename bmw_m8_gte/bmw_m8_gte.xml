@@ -21,6 +21,10 @@
     <!-- NRT -->
     
     <!-- RPM -->
+    <LIVERY_OVERRIDE LIVERY="53" NAME="RPM League" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body86.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- MGT -->
     
