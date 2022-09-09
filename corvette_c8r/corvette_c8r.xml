@@ -13,6 +13,10 @@
     <!-- KCSR -->
     
     <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="53" NAME="NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt-corvette-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\nrt-corvette-body.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- RPM -->
     
