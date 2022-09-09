@@ -19,6 +19,10 @@
     </LIVERY_OVERRIDE>
     
     <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="52" NAME="NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt-bmw-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\nrt-bmw-body.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- RPM -->
     <LIVERY_OVERRIDE LIVERY="53" NAME="RPM League" BASELIVERY="Default">

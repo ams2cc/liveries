@@ -20,6 +20,10 @@
     </LIVERY_OVERRIDE> 
     
     <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="52" NAME="NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt-porsche-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\nrt-porsche-body.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- RPM -->
     <LIVERY_OVERRIDE LIVERY="53" NAME="RPM League" BASELIVERY="Default">
