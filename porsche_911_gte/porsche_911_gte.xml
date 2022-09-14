@@ -32,6 +32,10 @@
     </LIVERY_OVERRIDE>
     
     <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Team MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="mgt\mgt--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="mgt\mgt--body.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default">
