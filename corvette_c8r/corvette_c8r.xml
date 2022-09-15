@@ -51,6 +51,13 @@
         <TEXTURE NAME="SPEC" PATH="prc\PRC_C8R_spec.dds" />
     </LIVERY_OVERRIDE>
     
-    <!-- AMS2CC -->
+    <!-- Blank Placeholder (Hide default livery selection) -->
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Do Not Select 57" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Do Not Select" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds 58" />
+    </LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>

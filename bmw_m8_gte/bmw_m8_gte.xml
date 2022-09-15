@@ -49,6 +49,21 @@
         <TEXTURE NAME="SPEC" PATH="prc\PRC_M8GTE_spec.dds" />
     </LIVERY_OVERRIDE>
     
-    <!-- AMS2CC -->
+    <!-- Blank Placeholder (Hide default livery selection) -->
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Do Not Select 57" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Do Not Select" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds 58" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="Do Not Select" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds 59" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="60" NAME="Do Not Select" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds 60" />
+    </LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>
