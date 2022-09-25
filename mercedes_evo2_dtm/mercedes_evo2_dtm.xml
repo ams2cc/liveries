@@ -15,7 +15,13 @@
     <!-- NRT -->
      
     <!-- RPM -->
-     
+    <LIVERY_OVERRIDE LIVERY="55" NAME="RPM League" BASELIVERY="Default"> 
+        <PREVIEWIMAGE PATH="rpm\preview86.dds" /> 
+        <TEXTURE NAME="BODY" PATH="rpm\body86.dds" /> 
+        <!-- <TEXTURE NAME="SPEC" PATH="rpm\spec.dds" />  -->
+        <!-- <TEXTURE NAME="FRESNEL" PATH="rpm\fresnel.dds" />  -->
+    </LIVERY_OVERRIDE>
+    
     <!-- MGT --> 
      
     <!-- AMSU -->
