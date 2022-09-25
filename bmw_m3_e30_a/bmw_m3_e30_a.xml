@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- Placeholder --> 
+    <!-- 
+    <LIVERY_OVERRIDE LIVERY="51-62" NAME="Team Name: Car Number" BASELIVERY="Default|Matte|Chrome"> 
+        <PREVIEWIMAGE PATH="teamid\preview.dds" /> 
+        <TEXTURE NAME="BODY" PATH="teamid\body.dds" /> 
+        <TEXTURE NAME="SPEC" PATH="teamid\spec.dds" /> 
+        <TEXTURE NAME="FRESNEL" PATH="teamid\fresnel.dds" /> 
+    </LIVERY_OVERRIDE> 
+    --> 
+ 
+    <!-- KCSR -->
+     
+    <!-- NRT -->
+     
+    <!-- RPM -->
+     
+    <!-- MGT --> 
+     
+    <!-- AMSU -->
+     
+    <!-- PRC --> 
+</USER_OVERRIDES>
