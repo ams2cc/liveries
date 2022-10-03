@@ -20,5 +20,11 @@
      
     <!-- AMSU -->
      
-    <!-- PRC --> 
+    <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="61" NAME="PRC" BASELIVERY="Chrome"> 
+        <PREVIEWIMAGE PATH="prc\PRC_190E_74_Thumb.dds" /> 
+        <TEXTURE NAME="BODY" PATH="prc\PRC_190E_74.dds" /> 
+        <TEXTURE NAME="WINDSCREEN" PATH="prc\PRC_190E_74_Banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="prc\PRC_190E_74_Spec.dds" />
+    </LIVERY_OVERRIDE> 
 </USER_OVERRIDES>
