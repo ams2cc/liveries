@@ -26,7 +26,11 @@
     <!-- RPM -->
      
     <!-- MGT --> 
-     
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Moonie GT" BASELIVERY="Default"> 
+        <PREVIEWIMAGE PATH="mgt\MGT_Merc_GroupA_skin_preview.dds" /> 
+        <TEXTURE NAME="BODY" PATH="mgt\MGT_Merc_GroupA_skin.dds" />
+    </LIVERY_OVERRIDE>
+
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="59" NAME="AMSU Mercedes" BASELIVERY="Default"> 
         <PREVIEWIMAGE PATH="amsu\preview.DDS" />
