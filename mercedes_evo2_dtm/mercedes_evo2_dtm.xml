@@ -19,6 +19,10 @@
     <!-- MGT --> 
      
     <!-- AMSU -->
+    <LIVERY_OVERRIDE LIVERY="59" NAME="AMSU Mercedes" BASELIVERY="Default"> 
+        <PREVIEWIMAGE PATH="amsu\preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="amsu\body.DDS" />
+    </LIVERY_OVERRIDE>
      
     <!-- PRC --> 
 </USER_OVERRIDES>
