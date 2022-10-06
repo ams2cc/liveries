@@ -13,6 +13,15 @@
     <!-- KCSR -->
      
     <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Team NRT Black" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NRT\preview-A.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Team NRT Silver" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NRT\preview-B.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-B.dds" />
+    </LIVERY_OVERRIDE>
      
     <!-- RPM -->
      
