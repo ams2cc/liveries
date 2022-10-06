@@ -11,6 +11,21 @@
     --> 
  
     <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Bruce Drew" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_190E_A_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_190E_A.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KerbClippers\KC_190E_A_Banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_190E_A_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_190E_A_fresnel.dds" />
+    </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Blank Jonny" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_190E_B_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_190E_B.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KerbClippers\KC_190E_B_Banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_190E_B_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_190E_B_fresnel.dds" />
+    </LIVERY_OVERRIDE>
      
     <!-- NRT -->
     <LIVERY_OVERRIDE LIVERY="53" NAME="Team NRT Black" BASELIVERY="Default">
