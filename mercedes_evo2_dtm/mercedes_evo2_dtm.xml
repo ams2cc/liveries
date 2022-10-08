@@ -45,6 +45,10 @@
         <!-- <TEXTURE NAME="SPEC" PATH="rpm\spec.dds" />  -->
         <!-- <TEXTURE NAME="FRESNEL" PATH="rpm\fresnel.dds" />  -->
     </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Blank 56" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
     
     <!-- MGT --> 
     <LIVERY_OVERRIDE LIVERY="57" NAME="Moonie GT" BASELIVERY="Default"> 
@@ -52,10 +56,18 @@
         <TEXTURE NAME="BODY" PATH="mgt\MGT_Merc_GroupA_skin.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Blank 58" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="59" NAME="AMSU Mercedes" BASELIVERY="Default"> 
         <PREVIEWIMAGE PATH="amsu\preview.DDS" />
         <TEXTURE NAME="BODY" PATH="amsu\body.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="Blank 60" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
     </LIVERY_OVERRIDE>
      
     <!-- PRC -->
@@ -65,4 +77,16 @@
         <TEXTURE NAME="WINDSCREEN" PATH="prc\PRC_190E_74_Banner.dds" />
         <TEXTURE NAME="SPEC" PATH="prc\PRC_190E_74_Spec.dds" />
     </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="Blank 62" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="63" NAME="Blank 63" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="64" NAME="Blank 64" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
