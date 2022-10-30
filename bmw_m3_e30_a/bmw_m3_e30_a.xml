@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- Placeholder --> 
+    <!-- 
+    <LIVERY_OVERRIDE LIVERY="51-62" NAME="Team Name: Car Number" BASELIVERY="Default|Matte|Chrome"> 
+        <PREVIEWIMAGE PATH="teamid\preview.dds" /> 
+        <TEXTURE NAME="BODY" PATH="teamid\body.dds" /> 
+        <TEXTURE NAME="SPEC" PATH="teamid\spec.dds" /> 
+        <TEXTURE NAME="FRESNEL" PATH="teamid\fresnel.dds" /> 
+    </LIVERY_OVERRIDE> 
+    --> 
+ 
+    <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Blank 51" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Blank 52" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+     
+    <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Team NRT Black" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NRT\preview-A.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Team NRT Silver" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NRT\preview-B.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-B.dds" />
+    </LIVERY_OVERRIDE>
+     
+    <!-- RPM -->
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Blank 55" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Blank 56" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+     
+    <!-- MGT --> 
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Moonie GT" BASELIVERY="Default"> 
+        <PREVIEWIMAGE PATH="mgt\MGT_BMW_GroupA_Preview.dds" /> 
+        <TEXTURE NAME="BODY" PATH="mgt\MGT_BMW_GroupA_skin.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Blank 58" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <!-- AMSU -->
+    <LIVERY_OVERRIDE LIVERY="59" NAME="AMSU BMW" BASELIVERY="Default"> 
+        <PREVIEWIMAGE PATH="amsu\preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="amsu\body.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="Blank 60" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="61" NAME="Blank 61" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="Blank 62" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="blank\preview.DDS" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
