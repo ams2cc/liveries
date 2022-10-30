@@ -4,9 +4,9 @@
     <!--
         Create a copy of this file without the '_dist' part and place it beside this one
         
-        eg      'bmw_m3_e30_a_dist.xml'
+        eg      'sigma_p1_dist.xml'
                     should become 
-                'bmw_m3_e30_a.xml'
+                'sigma_p1.xml'
 
         Define a 'LIVERY_OVERRIDE' section for each default livery you wish to replace.
 
@@ -72,6 +72,51 @@ AVAILABLE BASE LIVERIES
 						FRESNEL		- fresnel map which controls the strength the chrome effects
                                     - 4096 x 4096
                                     - DXT1 with MIPs
+									
+				GreenMetallic: Green Metallic Effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map which controls the strength the chrome effects
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+				RedMetallic: Red Metallic Effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map which controls the strength the chrome effects
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									
+				BlueMetallic: Blue Metallic Effect
+                Available textures: 
+                        BODY        - the main external body/window paint texture
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
+									- DXT5 with MIPs saved with alpha channel for paint fx 
+									
+						SPEC     	- specular map for reflection effects
+                                    - 4096 x 4096
+                                    - DXT5 with MIPs	
+
+						FRESNEL		- fresnel map which controls the strength the chrome effects
+                                    - 4096 x 4096
+                                    - DXT1 with MIPs
  
 
 		
@@ -82,21 +127,22 @@ AVAILABLE BASE LIVERIES
         <TEXTURE NAME="BODY" PATH="myracingteam\body12.dds" />
     </LIVERY_OVERRIDE> -->
 
-    <!-- <LIVERY_OVERRIDE LIVERY="60" NAME="My Racing Team #86" BASELIVERY="Default">
+    <!-- <LIVERY_OVERRIDE LIVERY="60" NAME="My Racing Team #86" BASELIVERY="Matte">
         <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+        <TEXTURE NAME="PAINT" PATH="myracingteam\body86.dds" />
         <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
-        <TEXTURE NAME="SPEC" PATH="MyTeam\body86_spec.dds" />
-        <TEXTURE NAME="FRESNEL" PATH="MyTeam\body86_fresnel.dds" />
     </LIVERY_OVERRIDE> -->
 	
-    <!-- <LIVERY_OVERRIDE LIVERY="61" NAME="My Racing Team #37" BASELIVERY="Matte">
+    <!-- <LIVERY_OVERRIDE LIVERY="61" NAME="My Racing Team #37" BASELIVERY="BlueMetallic">
         <PREVIEWIMAGE PATH="myracingteam\preview86.dds" />
+        <TEXTURE NAME="PAINT" PATH="myracingteam\body86.dds" />
         <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
     </LIVERY_OVERRIDE> -->
 	
     <!-- <LIVERY_OVERRIDE LIVERY="62" NAME="My Racing Team #38" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="myracingteam\preview38.dds" />
-        <TEXTURE NAME="BODY" PATH="myracingteam\body38.dds" />
+        <TEXTURE NAME="PAINT" PATH="myracingteam\body86.dds" />
+        <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
         <TEXTURE NAME="SPEC" PATH="MyTeam\body38_spec.dds" />
         <TEXTURE NAME="FRESNEL" PATH="MyTeam\body38_fresnel.dds" />
     </LIVERY_OVERRIDE> -->
