@@ -14,7 +14,11 @@
     <!-- KCSR -->
       
     <!-- NRT -->
-      
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Team NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NRT\NRT-Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-SigmaP1.dds" />
+    </LIVERY_OVERRIDE>
+    
     <!-- RPM -->
       
     <!-- MGT -->
