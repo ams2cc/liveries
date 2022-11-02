@@ -32,6 +32,10 @@
     </LIVERY_OVERRIDE>
       
     <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="54" NAME="MoonieGT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="mgt\SigmaP1_TeamMoonieGT_Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="mgt\SigmaP1_TeamMoonieGT_Skin.dds" />
+    </LIVERY_OVERRIDE>
  
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default"> 
