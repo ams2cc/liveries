@@ -25,6 +25,13 @@
         <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_Sprintrace_Jonny_Spec.dds" />
         <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_Sprintrace_Jonny_Fresnel.dds" />
     </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Sprintrace_Blank_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Sprintrace_Blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_Sprintrace_Blank_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_Sprintrace_Blank_Fresnel.dds" />
+    </LIVERY_OVERRIDE>
       
     <!-- NRT -->
     
