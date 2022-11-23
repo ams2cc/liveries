@@ -12,6 +12,33 @@
     -->
   
     <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Drew" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Sprintrace_Drew_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Sprintrace_Drew.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_Sprintrace_Drew_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_Sprintrace_Drew_Fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Jonny" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Sprintrace_Jonny_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Sprintrace_Jonny.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_Sprintrace_Jonny_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_Sprintrace_Jonny_Fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Sprintrace_Blank_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Sprintrace_Blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_Sprintrace_Blank_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_Sprintrace_Blank_Fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Kerb Clippers Bruce" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Sprintrace_Bruce_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Sprintrace_Bruce.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_Sprintrace_Bruce_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_Sprintrace_Bruce_Fresnel.dds" />
+    </LIVERY_OVERRIDE> 
       
     <!-- NRT -->
     
