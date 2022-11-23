@@ -41,6 +41,15 @@
     </LIVERY_OVERRIDE> 
       
     <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Nomad Racing Team: Blue" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="NRT\NRT-BLUE.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Nomad Racing Team: Red" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="NRT\NRT-RED.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-B.dds" />
+    </LIVERY_OVERRIDE>
     
     <!-- RPM -->
       
