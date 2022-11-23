@@ -22,5 +22,21 @@
     <!-- AMSU -->
  
     <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="64" NAME="PRC 74" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="PRC\PRC_Sprintrace_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="PRC\PRC_Sprintrace.dds" />
+    </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="65" NAME="PRC 68" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="PRC\PRC_Sprintrace_b_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="PRC\PRC_Sprintrace_b.dds" />
+        <TEXTURE NAME="SPEC" PATH="PRC\PRC_Sprintrace_b_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="PRC\PRC_Sprintrace_b_Fresnel.dds" />
+    </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="66" NAME="PRC 51" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="PRC\PRC_Sprintrace_c_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="PRC\PRC_Sprintrace_c.dds" />
+    </LIVERY_OVERRIDE> 
 
 </USER_OVERRIDES>
