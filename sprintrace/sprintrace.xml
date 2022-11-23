@@ -69,22 +69,22 @@
     </LIVERY_OVERRIDE>
 
     <!-- AMSU -->
-    <LIVERY_OVERRIDE LIVERY="61" NAME="AMSU: J Turn" BASELIVERY="Default">
+    <LIVERY_OVERRIDE LIVERY="60" NAME="AMSU: J Turn" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="amsu\preview--jturn.DDS" />
         <TEXTURE NAME="BODY" PATH="amsu\body--jturn.DDS" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="62" NAME="AMSU: Barry Mmm" BASELIVERY="Default">
+    <LIVERY_OVERRIDE LIVERY="61" NAME="AMSU: Barry Mmm" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="amsu\preview--barrymmm.DDS" />
         <TEXTURE NAME="BODY" PATH="amsu\body--barrymmm.DDS" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="63" NAME="AMSU: Mugridge Bear" BASELIVERY="Default">
+    <LIVERY_OVERRIDE LIVERY="62" NAME="AMSU: Mugridge Bear" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="amsu\preview--mugridgebear.DDS" />
         <TEXTURE NAME="BODY" PATH="amsu\body--mugridgebear.DDS" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="64" NAME="AMSU: Loz Archer" BASELIVERY="Default">
+    <LIVERY_OVERRIDE LIVERY="63" NAME="AMSU: Loz Archer" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="amsu\preview--lozarcher.DDS" />
         <TEXTURE NAME="BODY" PATH="amsu\body--lozarcher.DDS" />
     </LIVERY_OVERRIDE>
