@@ -54,7 +54,16 @@
     <!-- RPM -->
       
     <!-- MGT -->
- 
+    <LIVERY_OVERRIDE LIVERY="58" NAME="MoonieGT: 13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="mgt\SprintRace_AMS2CC_MoonieGT_Preview13.dds" />
+        <TEXTURE NAME="BODY" PATH="mgt\SprintRace_AMS2CC_MoonieGT_Skin13.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="MoonieGT: 31" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="mgt\SprintRace_AMS2CC_MoonieGT_Preview31.dds" />
+        <TEXTURE NAME="BODY" PATH="mgt\SprintRace_AMS2CC_MoonieGT_Skin31.dds" />
+    </LIVERY_OVERRIDE>
+
     <!-- AMSU -->
     <LIVERY_OVERRIDE LIVERY="61" NAME="AMSU: J Turn" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="amsu\preview--jturn.DDS" />
