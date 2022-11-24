@@ -106,5 +106,26 @@
         <PREVIEWIMAGE PATH="PRC\PRC_Sprintrace_c_Thumb.dds" />
         <TEXTURE NAME="BODY" PATH="PRC\PRC_Sprintrace_c.dds" />
     </LIVERY_OVERRIDE> 
+ 
+    <!-- AMS2CC -->
+    <LIVERY_OVERRIDE LIVERY="67" NAME="AMS2CC: A" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\preview--misc.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\body--misc.DDS" />
+    </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="68" NAME="AMS2CC: B" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\preview--misc.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\body--misc.DDS" />
+    </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="69" NAME="AMS2CC: C" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\preview--misc.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\body--misc.DDS" />
+    </LIVERY_OVERRIDE> 
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="AMS2CC: D" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\preview--misc.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\body--misc.DDS" />
+    </LIVERY_OVERRIDE> 
 
 </USER_OVERRIDES>
