@@ -22,5 +22,9 @@
     <!-- AMSU -->
   
     <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="56" NAME="PRC" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="PRC\PRC_AMG_GT3_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="PRC\PRC_AMG_GT3.dds" />
+    </LIVERY_OVERRIDE> 
  
 </USER_OVERRIDES> 
