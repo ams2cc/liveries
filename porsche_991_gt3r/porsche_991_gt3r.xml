@@ -12,6 +12,13 @@
     --> 
    
     <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_911_GT3R_Thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_911_GT3R.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KerbClippers\KC_911_GT3R_Banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="KerbClippers\KC_911_GT3R_Spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KerbClippers\KC_911_GT3R_Fresnel.dds" />
+    </LIVERY_OVERRIDE> 
        
     <!-- NRT -->
      
