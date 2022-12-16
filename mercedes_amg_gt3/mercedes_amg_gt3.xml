@@ -18,6 +18,10 @@
     <!-- RPM -->
        
     <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="54" NAME="MoonieGT" BASELIVERY="Default"> 
+        <PREVIEWIMAGE PATH="mgt\MercedesGT3_AMS2CC_MoonieGT_Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="mgt\MercedesGT3_AMS2CC_MoonieGT_Skin.dds" />
+    </LIVERY_OVERRIDE> 
   
     <!-- AMSU -->
   
