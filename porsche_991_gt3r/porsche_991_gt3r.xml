@@ -8,6 +8,7 @@
         <TEXTURE NAME="BODY" PATH="myracingteam\body86.dds" />
         <TEXTURE NAME="SPEC" PATH="MyTeam\body38_spec.dds" />
         <TEXTURE NAME="FRESNEL" PATH="MyTeam\body38_fresnel.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="MyTeam\banner86.dds" />
     </LIVERY_OVERRIDE> 
     --> 
    
@@ -23,6 +24,7 @@
     <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default"> 
         <PREVIEWIMAGE PATH="amsu\preview.dds" />
         <TEXTURE NAME="BODY" PATH="amsu\body.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="amsu\banner.dds" />
     </LIVERY_OVERRIDE> 
   
     <!-- PRC -->
