@@ -40,6 +40,7 @@
         <PREVIEWIMAGE PATH="amsu\preview.dds" />
         <TEXTURE NAME="BODY" PATH="amsu\body.dds" />
         <TEXTURE NAME="WINDSCREEN" PATH="amsu\banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="amsu\spec.dds" />
     </LIVERY_OVERRIDE> 
   
     <!-- PRC -->
