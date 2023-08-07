@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- Placeholder -->
+    <!--
+    <LIVERY_OVERRIDE LIVERY="51-58" NAME="Team Name: Car Number" BASELIVERY="Default|Matte|Chrome">
+        <PREVIEWIMAGE PATH="teamid\preview.dds" />
+        <TEXTURE NAME="BODY" PATH="teamid\body.dds" />
+        <TEXTURE NAME="SPEC" PATH="teamid\spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="teamid\fresnel.dds" />
+    </LIVERY_OVERRIDE>
+    -->
+
+    <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Jonny" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\KC_C8R_Jonny_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\KC_C8R_Jonny.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\KC_C8R_Jonny_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\KC_C8R_Jonny_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\KC_C8R_Blank_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\KC_C8R_Blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\KC_C8R_Blank_spec.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="53" NAME="NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt-corvette-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\nrt-corvette-body.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- RPM -->
+    
+    <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Team MoonieGT #56" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="mgt\mgt--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="mgt\mgt--body.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- AMSU -->
+    <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="amsu\amsu--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="amsu\amsu-corvette-body.DDS" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="56" NAME="PRC" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="prc\PRC_C8R_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_C8R.dds" />
+        <TEXTURE NAME="SPEC" PATH="prc\PRC_C8R_spec.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- Blank Placeholder (Hide default livery selection) -->
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Do Not Select 57" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Do Not Select" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="blank\blank--preview.dds 58" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>

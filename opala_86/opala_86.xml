@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Blue" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Opala_Thumb_Blue.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Blue.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Red" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Opala_Thumb_Red.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Red.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="Kerb Clippers Pink" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="KerbClippers\KC_Opala_Thumb_Pink.dds" />
+        <TEXTURE NAME="BODY" PATH="KerbClippers\KC_Opala_Pink.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- NRT -->
+    <LIVERY_OVERRIDE LIVERY="54" NAME="NRT #17" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_A.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_A.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="NRT #74" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_B.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_B.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NRT #28" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt\nrt--preview_C.DDS" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT_C.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <!-- RPM -->
+    <LIVERY_OVERRIDE LIVERY="57" NAME="RPM League #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview33.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\opala33.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="RPM League #53" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview53.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\opala53.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="RPM League #86" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\opala86.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <!-- MGT -->
+    <LIVERY_OVERRIDE LIVERY="60" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="61" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="MoonieGT #13" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MoonieGT\MoonieGTpreview.dds" />
+        <TEXTURE NAME="BODY" PATH="MoonieGT\MoonieGT Opala86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <!-- AMSU -->
+    <LIVERY_OVERRIDE LIVERY="63" NAME="AMSU 42" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc-opala86-amsu\amsu--42--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc-opala86-amsu\amsu--42.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="64" NAME="AMSU 43" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc-opala86-amsu\amsu--43--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc-opala86-amsu\amsu--43.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="65" NAME="AMSU 48" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc-opala86-amsu\amsu--48--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc-opala86-amsu\amsu--48.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <!-- PRC -->
+    <LIVERY_OVERRIDE LIVERY="66" NAME="PRC #77" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\prc--preview_A.DDS" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_A.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="67" NAME="PRC #36" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\prc--preview_B.DDS" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_B.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="68" NAME="PRC #51" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="prc\prc--preview_C.DDS" />
+        <TEXTURE NAME="BODY" PATH="prc\PRC_C.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <!-- AMS2CC -->
+    <LIVERY_OVERRIDE LIVERY="69" NAME="AMS2CC Orange" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\basic--orange--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--orange.DDS" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="AMS2CC Grey" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\basic--grey--preview.DDS" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\basic--grey.DDS" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
