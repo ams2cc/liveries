@@ -5,4 +5,20 @@
         <PREVIEWIMAGE PATH="rpm\preview21.dds" />
         <TEXTURE NAME="BODY" PATH="rpm\body21.dds" />
     </LIVERY_OVERRIDE>
+
+    <!-- AMSU -->
+    <LIVERY_OVERRIDE LIVERY="52" NAME="AMSU: 42" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="amsu\amsu--42--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="amsu\amsu--42.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="AMSU: 78" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="amsu\amsu--78--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="amsu\amsu--78.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="AMSU: 85" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="amsu\amsu--85--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="amsu\amsu--85.dds" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
