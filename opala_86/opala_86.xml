@@ -21,4 +21,10 @@
         <PREVIEWIMAGE PATH="amsu\amsu--85--preview.dds" />
         <TEXTURE NAME="BODY" PATH="amsu\amsu--85.dds" />
     </LIVERY_OVERRIDE>
+
+    <!-- NGZ -->
+    <LIVERY_OVERRIDE LIVERY="55" NAME="NGZ" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ngz\Opala86_NoobGamerz-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ngz\Opala86_NoobGamerz-livery.dds" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
