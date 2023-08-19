@@ -49,4 +49,45 @@
         <TEXTURE NAME="SPEC" PATH="kcsr\Opala86_David_spec.dds" />
         <TEXTURE NAME="FRESNEL" PATH="kcsr\Opala86_David_fresnel.dds" />
     </LIVERY_OVERRIDE>
+
+    <!-- AMS2CC -->
+    <LIVERY_OVERRIDE LIVERY="59" NAME="AMS2CC: 303" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--303--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--303.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="AMS2CC: 304" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--304--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--304.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="61" NAME="AMS2CC: 305" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--305--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--305.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="AMS2CC: 306" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--306--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--306.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="63" NAME="AMS2CC: 307" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--307--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--307.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="64" NAME="AMS2CC: 308" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--308--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--308.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="65" NAME="AMS2CC: 309" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--309--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--309.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="66" NAME="AMS2CC: 310" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--310--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--310.dds" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
