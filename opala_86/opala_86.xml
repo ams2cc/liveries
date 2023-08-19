@@ -27,4 +27,26 @@
         <PREVIEWIMAGE PATH="ngz\Opala86_NoobGamerz-preview.dds" />
         <TEXTURE NAME="BODY" PATH="ngz\Opala86_NoobGamerz-livery.dds" />
     </LIVERY_OVERRIDE>
+
+    <!-- KCSR -->
+    <LIVERY_OVERRIDE LIVERY="56" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\Opala86_Blank_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\Opala86_Blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\Opala86_Blank_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\Opala86_Blank_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="Kerb Clippers Tex" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\Opala86_Tex_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\Opala86_Tex.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\Opala86_Tex_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\Opala86_Tex_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="Kerb Clippers David" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\Opala86_David_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\Opala86_David.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\Opala86_David_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\Opala86_David_fresnel.dds" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
