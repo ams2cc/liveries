@@ -60,10 +60,10 @@
         <TEXTURE NAME="BODY" PATH="rpm\body21.dds" />
     </LIVERY_OVERRIDE>
 
-    <!-- NGZ -->
-    <LIVERY_OVERRIDE LIVERY="61" NAME="NGZ" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="ngz\Opala86_NoobGamerz-preview.dds" />
-        <TEXTURE NAME="BODY" PATH="ngz\Opala86_NoobGamerz-livery.dds" />
+    <!-- NBZ -->
+    <LIVERY_OVERRIDE LIVERY="61" NAME="NBZ" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\Opala86_NoobGamerz-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\Opala86_NoobGamerz-livery.dds" />
     </LIVERY_OVERRIDE>
 
     <!-- MVRC -->
