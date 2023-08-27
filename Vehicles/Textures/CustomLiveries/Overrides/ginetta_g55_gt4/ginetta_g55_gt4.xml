@@ -1,3 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
+    <LIVERY_OVERRIDE LIVERY="51" NAME="KCSR Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\ginetta_g55_gt4_blank_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="kcsr\ginetta_g55_gt4_blank.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\ginetta_g55_gt4_blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\ginetta_g55_gt4_blank_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\ginetta_g55_gt4_blank_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="KCSR David" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\ginetta_g55_gt4_david_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="kcsr\ginetta_g55_gt4_david.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\ginetta_g55_gt4_david.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\ginetta_g55_gt4_david_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\ginetta_g55_gt4_david_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="KCSR Drew" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\ginetta_g55_gt4_drew_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="kcsr\ginetta_g55_gt4_drew.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\ginetta_g55_gt4_drew.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\ginetta_g55_gt4_drew_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\ginetta_g55_gt4_drew_fresnel.dds" />
+    </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
