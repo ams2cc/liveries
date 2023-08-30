@@ -24,6 +24,12 @@
         <TEXTURE NAME="FRESNEL" PATH="kcsr\ginetta_g55_gt4_drew_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="54" NAME="LNR1" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
+    </LIVERY_OVERRIDE>
+
     <LIVERY_OVERRIDE LIVERY="56" NAME="AMS2CC" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--ind--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--ind--body.dds" />
