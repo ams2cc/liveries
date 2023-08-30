@@ -30,6 +30,12 @@
         <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="55" NAME="MVRC" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="mvrc/MVRC_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="mvrc/MVRC.dds" />
+        <TEXTURE NAME="BODY" PATH="mvrc/MVRC.dds" />
+    </LIVERY_OVERRIDE>
+
     <LIVERY_OVERRIDE LIVERY="56" NAME="AMS2CC" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--ind--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--ind--body.dds" />
