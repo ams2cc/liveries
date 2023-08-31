@@ -24,19 +24,61 @@
         <TEXTURE NAME="FRESNEL" PATH="kcsr/ginetta_g55_gt4_drew_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="54" NAME="LNR1" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Evil Noodle Racing" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="nrt\NRT-A_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt\NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="Blue Bull Racing" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="nrt\NRT-B_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT-B.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt\NRT-B_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NESSiE" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="nrt\NRT-C_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT-C.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt\NRT-C_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="LNR: 1" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
         <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
         <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="55" NAME="MVRC" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="58" NAME="LNR: 2" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="LNR: 3" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="MVRC: 1" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="mvrc/MVRC_p.dds" />
         <TEXTURE NAME="PAINT" PATH="mvrc/MVRC.dds" />
         <TEXTURE NAME="BODY" PATH="mvrc/MVRC.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="56" NAME="AMS2CC" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="61" NAME="MVRC: 2" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="mvrc/MVRC_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="mvrc/MVRC.dds" />
+        <TEXTURE NAME="BODY" PATH="mvrc/MVRC.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="MVRC: 3" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="mvrc/MVRC_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="mvrc/MVRC.dds" />
+        <TEXTURE NAME="BODY" PATH="mvrc/MVRC.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="63" NAME="AMS2CC" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--ind--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--ind--body.dds" />
         <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--ind--spec.dds" />
