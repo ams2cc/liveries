@@ -108,19 +108,34 @@
         <TEXTURE NAME="BODY" PATH="rpm\body92.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="69" NAME="AMS2CC: 303" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="69" NAME="NBZ: Laekwondo" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\Noobz_ginetta_g55gt4_laekwondo_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\Noobz_ginetta_g55gt4_laekwondo_template.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="NBZ: Nobbzy" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\Noobz_ginetta_g55gt4_nobbzy_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\Noobz_ginetta_g55gt4_nobbzy_template.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="71" NAME="NBZ: Touc" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\Noobz_ginetta_g55gt4_touc_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\Noobz_ginetta_g55gt4_touc_template.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="72" NAME="AMS2CC: 303" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--303--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--303--body.dds" />
         <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--303--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="70" NAME="AMS2CC: 304" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="73" NAME="AMS2CC: 304" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--304--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--304--body.dds" />
         <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--304--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="71" NAME="AMS2CC: 305" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="74" NAME="AMS2CC: 305" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--305--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--305--body.dds" />
         <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--305--spec.dds" />
