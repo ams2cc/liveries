@@ -48,10 +48,10 @@
         <TEXTURE NAME="SPEC" PATH="lnr/lnr--422--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="58" NAME="LNR: 533" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="lnr/lnr--533--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="lnr/lnr--533--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="lnr/lnr--533--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="58" NAME="LNR: 25" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--25--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--25--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--25--spec.dds" />
     </LIVERY_OVERRIDE>
 
     <LIVERY_OVERRIDE LIVERY="59" NAME="LNR: 644" BASELIVERY="Chrome">
