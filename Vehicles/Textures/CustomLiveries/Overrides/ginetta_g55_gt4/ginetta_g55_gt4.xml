@@ -42,22 +42,22 @@
         <TEXTURE NAME="SPEC" PATH="nrt\NRT-C_spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="57" NAME="LNR: 1" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="57" NAME="LNR: 422" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--422--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--422--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--422--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="58" NAME="LNR: 2" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="58" NAME="LNR: 533" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--533--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--533--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--533--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="59" NAME="LNR: 3" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="lnr/lnr--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="lnr/lnr--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="59" NAME="LNR: 644" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--644--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--644--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--644--spec.dds" />
     </LIVERY_OVERRIDE>
 
     <LIVERY_OVERRIDE LIVERY="60" NAME="MVRC: 1" BASELIVERY="Chrome">
@@ -93,21 +93,36 @@
         <TEXTURE NAME="BODY" PATH="amsu/AMSU-85.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="66" NAME="AMS2CC: 1" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="ams2cc/ams2cc--ind--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--ind--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--ind--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="66" NAME="RPM #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview33.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body33.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="67" NAME="AMS2CC: 2" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="ams2cc/ams2cc--ind--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--ind--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--ind--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="67" NAME="RPM #80" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview80.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body80.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="68" NAME="AMS2CC: 3" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="ams2cc/ams2cc--ind--preview.dds" />
-        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--ind--body.dds" />
-        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--ind--spec.dds" />
+    <LIVERY_OVERRIDE LIVERY="68" NAME="RPM #92" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview92.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body92.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="69" NAME="AMS2CC: 303" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--303--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--303--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--303--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="70" NAME="AMS2CC: 304" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--304--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--304--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--304--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="71" NAME="AMS2CC: 305" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--305--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--305--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--305--spec.dds" />
     </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
