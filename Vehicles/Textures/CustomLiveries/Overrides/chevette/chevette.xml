@@ -8,4 +8,10 @@
         <TEXTURE NAME="FRESNEL" PATH="kcsr/chevette_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="52" NAME="NRT" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt/NRT-A_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt/NRT-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt/NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
