@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<USER_OVERRIDES></USER_OVERRIDES>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr/copaclassic_gol_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr/copaclassic_gol.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr/copaclassic_gol_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr/copaclassic_gol_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
