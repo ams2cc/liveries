@@ -14,4 +14,10 @@
         <TEXTURE NAME="SPEC" PATH="nrt/NRT-A_spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="53" NAME="LNR" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--chevette--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--chevette--spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>

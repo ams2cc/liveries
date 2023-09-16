@@ -8,4 +8,10 @@
         <TEXTURE NAME="FRESNEL" PATH="kcsr/pascb_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="52" NAME="LNR" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--pas--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--pas--spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>

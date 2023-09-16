@@ -8,4 +8,10 @@
         <TEXTURE NAME="FRESNEL" PATH="kcsr/copaclassic_gol_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="52" NAME="LNR" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="lnr/lnr--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="lnr/lnr--gol--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="lnr/lnr--gol--spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
