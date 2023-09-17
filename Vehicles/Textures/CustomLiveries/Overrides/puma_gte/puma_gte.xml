@@ -14,7 +14,37 @@
         <TEXTURE NAME="SPEC" PATH="lnr/lnr--pumagte--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="58" NAME="AMS2CC" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="53" NAME="AMS2CC: 1" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--pumagte--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--pumagte--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="AMS2CC: 2" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--pumagte--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--pumagte--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="AMS2CC: 3" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--pumagte--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--pumagte--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="AMS2CC: 4" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--pumagte--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--pumagte--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="AMS2CC: 5" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--pumagte--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--pumagte--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="AMS2CC: 6" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--pumagte--body.dds" />
         <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--pumagte--spec.dds" />
