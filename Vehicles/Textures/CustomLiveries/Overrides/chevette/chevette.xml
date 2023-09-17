@@ -25,6 +25,11 @@
         <TEXTURE NAME="BODY" PATH="amsu/AMSU.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="55" NAME="RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm/preview21.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm/body21.dds" />
+    </LIVERY_OVERRIDE>
+
     <LIVERY_OVERRIDE LIVERY="58" NAME="AMS2CC" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="ams2cc/ams2cc--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc/ams2cc--chevette--body.dds" />
