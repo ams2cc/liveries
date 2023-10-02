@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Drew" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR/superv8_drew_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="KCSR/superv8_drew.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR/superv8_drew.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR/superv8_drew_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR/superv8_drew_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR/superv8_blank_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="KCSR/superv8_blank.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR/superv8_blank.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR/superv8_blank_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR/superv8_blank_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="53" NAME="Kerb Clippers Tex" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR/superv8_tex_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="KCSR/superv8_tex.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR/superv8_tex.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR/superv8_tex_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR/superv8_tex_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="54" NAME="AMSU: 42" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="AMSU/AMSU-42-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="AMSU/AMSU-42.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="55" NAME="AMSU: 78" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="amsu/AMSU-78-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="AMSU/AMSU-78.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="56" NAME="AMSU: 85" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="AMSU/AMSU-85-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="AMSU/AMSU-85.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="57" NAME="MVRC #71" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC_71_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_71.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_71.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_71_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_71_fres.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="58" NAME="MVRC #71" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC_71_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_71.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_71.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_71_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_71_fres.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="59" NAME="MVRC #71" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC_71_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_71.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_71.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_71_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_71_fres.dds" />
+    </LIVERY_OVERRIDE>
+
+ <LIVERY_OVERRIDE LIVERY="60" NAME="RPM League #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="RPM/preview_51.dds" />
+        <TEXTURE NAME="BODY" PATH="RPM/body_51.dds" />
+    </LIVERY_OVERRIDE> -->
+
+<LIVERY_OVERRIDE LIVERY="61" NAME="RPM League #80" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="RPM/preview_52.dds" />
+        <TEXTURE NAME="BODY" PATH="RPM/body_52.dds" />
+    </LIVERY_OVERRIDE> -->
+
+ <LIVERY_OVERRIDE LIVERY="62" NAME="RPM League #92" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="RPM/preview_53.dds" />
+        <TEXTURE NAME="BODY" PATH="RPM/body_53.dds" />
+    </LIVERY_OVERRIDE> -->
+
+<LIVERY_OVERRIDE LIVERY="63" NAME="Chris Racing [NRT]" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="NRT/NRT-A_preview.dds" />
+    <TEXTURE NAME="BODY" PATH="NRT/NRT-A.dds" />
+	<TEXTURE NAME="SPEC" PATH="NRT/NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+   	
+<LIVERY_OVERRIDE LIVERY="64" NAME="NESSiE Racing [NRT]" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="NRT/NRT-B_preview.dds" />
+    <TEXTURE NAME="BODY" PATH="NRT/NRT-B.dds" />
+	<TEXTURE NAME="SPEC" PATH="NRT/NRT-B_spec.dds" />
+    </LIVERY_OVERRIDE>
+	
+<LIVERY_OVERRIDE LIVERY="65" NAME="Evil Noodle Racing [NRT]" BASELIVERY="Default">
+    <PREVIEWIMAGE PATH="NRT/NRT-C_preview.dds" />
+    <TEXTURE NAME="BODY" PATH="NRT/NRT-C.dds" />
+	<TEXTURE NAME="SPEC" PATH="NRT/NRT-C_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="66" NAME="Noob Gamerz: Laekwondo" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="NBZ/preview_LAEKWONDO.dds" />
+	<TEXTURE NAME="BODY" PATH="NBZ/body_LAEKWONDO.dds" />
+	</LIVERY_OVERRIDE> -->
+
+<LIVERY_OVERRIDE LIVERY="67" NAME="Noob Gamerz: Frim" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NBZ/preview_FRIM.dds" />
+        <TEXTURE NAME="BODY" PATH="NBZ/body_FRIM.dds" />
+    </LIVERY_OVERRIDE> -->
+
+ <LIVERY_OVERRIDE LIVERY="68" NAME="Noob Gamerz: Nobbzy" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NBZ/preview_NOBBZY.dds" />
+        <TEXTURE NAME="BODY" PATH="NBZ/body_NOBBZY.dds" />
+    </LIVERY_OVERRIDE> -->
+
+<LIVERY_OVERRIDE LIVERY="69" NAME="LNR #25" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="LNR/superv8_lnr25_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="LNR/superv8_lnr25.dds" />
+        <TEXTURE NAME="BODY" PATH="LNR/superv8_lnr25.dds" />
+        <TEXTURE NAME="SPEC" PATH="LNR/superv8_lnr25_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="70" NAME="LNR #254" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="LNR/superv8_lnr254_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="LNR/superv8_lnr254.dds" />
+        <TEXTURE NAME="BODY" PATH="LNR/superv8_lnr254.dds" />
+        <TEXTURE NAME="SPEC" PATH="LNR/superv8_lnr254_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="71" NAME="LNR #422" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="LNR/superv8_lnr422_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="LNR/superv8_lnr422.dds" />
+        <TEXTURE NAME="BODY" PATH="LNR/superv8_lnr422.dds" />
+        <TEXTURE NAME="SPEC" PATH="LNR/superv8_lnr422_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="72" NAME="IND #97" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind97_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind97.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind97.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind97_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind97_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="73" NAME="IND #1" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind1_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind1.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind1.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind1_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind1_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="74" NAME="IND #233" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind233_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind233.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind233.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind233_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind233_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
