@@ -48,20 +48,20 @@
         <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_71_fres.dds" />
     </LIVERY_OVERRIDE>
 
-<LIVERY_OVERRIDE LIVERY="58" NAME="MVRC #71" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="MVRC/MVRC_71_p.dds" />
-        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_71.dds" />
-        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_71.dds" />
-        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_71_spec.dds" />
-        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_71_fres.dds" />
+<LIVERY_OVERRIDE LIVERY="58" NAME="MVRC #72" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC_72_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_72.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_72.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_72_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_72_fres.dds" />
     </LIVERY_OVERRIDE>
 
-<LIVERY_OVERRIDE LIVERY="59" NAME="MVRC #71" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="MVRC/MVRC_71_p.dds" />
-        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_71.dds" />
-        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_71.dds" />
-        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_71_spec.dds" />
-        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_71_fres.dds" />
+<LIVERY_OVERRIDE LIVERY="59" NAME="MVRC #73" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC_73_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_73.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_73.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_73_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_73_fres.dds" />
     </LIVERY_OVERRIDE>
 
  <LIVERY_OVERRIDE LIVERY="60" NAME="RPM League #33" BASELIVERY="Default">
@@ -155,6 +155,54 @@
         <TEXTURE NAME="BODY" PATH="IND/superv8_ind233.dds" />
         <TEXTURE NAME="SPEC" PATH="IND/superv8_ind233_spec.dds" />
         <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind233_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="75" NAME="IND #98" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind98_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind98.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind98.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind98_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind98_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="76" NAME="IND #2" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind2_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind2.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind2.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind1_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind1_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="77" NAME="IND #234" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind234_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind234.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind234.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind234_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind234_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="78" NAME="IND #99" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind99_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind99.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind99.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind99_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind99_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="79" NAME="IND #3" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind3_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind3.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind3.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind1_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind1_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="80" NAME="IND #235" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND/superv8_ind235_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND/superv8_ind235.dds" />
+        <TEXTURE NAME="BODY" PATH="IND/superv8_ind235.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND/superv8_ind235_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND/superv8_ind235_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>
