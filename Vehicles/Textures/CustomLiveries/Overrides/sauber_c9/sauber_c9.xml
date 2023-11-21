@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\sauber_c9_drew_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\sauber_c9_drew.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KCSR\sauber_c9_drew_banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\sauber_c9_drew_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\sauber_c9_drew_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="MVRC_WelshMSport" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC_WelshMSport_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC_WelshMSport.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC_WelshMSport.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC_WelshMSport_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC_WelshMSport_fres.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="MVRC-HWhite909" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRC/MVRC-HWhite909_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRC-HWhite909.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC-HWhite909.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRC-HWhite909_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRC-HWhite909_fres.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="54" NAME="NRT" BASELIVERY="Matte">
+<PREVIEWIMAGE PATH="NRT\NRT-A_preview.dds" />
+<TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+<TEXTURE NAME="WINDSCREEN" PATH="NRT\NRT-A_banner.dds" />
+<TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="55" NAME="Noob Gamerz" BASELIVERY="Matte">
+<PREVIEWIMAGE PATH="NBZ\NBZ-Sauber_c9_preview.dds" />
+<TEXTURE NAME="BODY" PATH="NBZ\NBZ-Sauber_c9_template.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="56" NAME="Logistical Nightmare" BASELIVERY="Default">
+<PREVIEWIMAGE PATH="LNR\LNRp.dds" />
+<TEXTURE NAME="BODY" PATH="LNR\LNRc9.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="60" NAME="IND 48" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND\sauber_c9_48_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="IND\sauber_c9_48.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="IND\sauber_c9_48_banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND\sauber_c9_48_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND\sauber_c9_48_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
