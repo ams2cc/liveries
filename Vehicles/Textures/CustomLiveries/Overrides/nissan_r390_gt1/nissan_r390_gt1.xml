@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+   <LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\r390_gt1_Thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="KCSR\R390_gt1.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\R390_gt1.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\R390_gt1_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\R390_gt1_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="Logistical Nightmare" BASELIVERY="Default">
+<PREVIEWIMAGE PATH="LNR\LNRthumb.dds"/>
+<TEXTURE NAME="BODY" PATH="LNR\LNRbody.dds"/>
+</LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>

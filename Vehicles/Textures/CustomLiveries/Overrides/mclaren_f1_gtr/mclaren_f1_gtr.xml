@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\F1_GTR_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="KCSR\F1_GTR.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\F1_GTR.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\F1_GTR_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\F1_GTR_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
