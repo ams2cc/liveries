@@ -14,4 +14,19 @@
 <TEXTURE NAME="BODY" PATH="LNR\LNRbody.dds"/>
 </LIVERY_OVERRIDE>
 
+   <LIVERY_OVERRIDE LIVERY="53" NAME="NRT" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="NRT\NRT-A_preview.dds" />
+        <TEXTURE NAME="PAINT" PATH="NRT\NRT-A.dds" />
+        <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+   <LIVERY_OVERRIDE LIVERY="60" NAME="IND #23" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND\r390_gt1_ind_23_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND\r390_gt1_ind_23.dds" />
+        <TEXTURE NAME="BODY" PATH="IND\r390_gt1_ind_23.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND\r390_gt1_ind_23_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND\r390_gt1_ind_23_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
