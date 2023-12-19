@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\G55 GT3_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="KCSR\G55 GT3.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\G55 GT3.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\G55 GT3_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\G55 GT3_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="AMSU" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="AMSU/AMSU-78-preview.dds" />
+        <TEXTURE NAME="BODY" PATH="AMSU/AMSU-78.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="MVRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MVRC/MVRCp.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRC.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="RPM/preview_51.dds" />
+        <TEXTURE NAME="BODY" PATH="RPM/body_51.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="55" NAME="NRT GT3" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="NRT\NRT-A_preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />  
+	  <TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NBZ" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="NBZ/NBZ_ginetta_g55_gt3_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="NBZ/NBZ_ginetta_g55_gt3_template.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="LNR" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="LNR/LNRp.dds" />
+        <TEXTURE NAME="BODY" PATH="LNR/LNR.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="58" NAME="IND" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND\G55 GT3_ind_thumb.dds" />
+        <TEXTURE NAME="PAINT" PATH="IND\G55 GT3_ind.dds" />
+        <TEXTURE NAME="BODY" PATH="IND\G55 GT3_ind.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND\G55 GT3_ind_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND\G55 GT3_ind_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
