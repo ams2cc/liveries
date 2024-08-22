@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="PBM" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="PBM\Opala86_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="PBM\Opala86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="PBM\Opala86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="PBM\Opala86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
