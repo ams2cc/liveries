@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="KCSR" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="KCSR\Opala86_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="KCSR\Opala86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="KCSR\Opala86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="KCSR\Opala86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
