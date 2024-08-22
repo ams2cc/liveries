@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\CLK_LM_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\CLK_LM.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KCSR\CLK_LM.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\CLK_LM_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\CLK_LM_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="Nomads Racing" BASELIVERY="Chrome">
+	<PREVIEWIMAGE PATH="NRT\NRT-A_preview.dds" />
+    <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+	<TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+    <TEXTURE NAME="FRESNEL" PATH="NRT\NRT-A_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="60" NAME="IND #4" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="IND\CLK_LM_IND_4_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="IND\CLK_LM_IND_4.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="IND\CLK_LM_IND_4.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND\CLK_LM_IND_4_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND\CLK_LM_IND_4_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
