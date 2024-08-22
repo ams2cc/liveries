@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    
+    <LIVERY_OVERRIDE LIVERY="60" NAME="SRGP" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="SRGP\previewSRGP86.dds" />
+	  <TEXTURE NAME="BODY" PATH="SRGP\bodySRGP86.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
