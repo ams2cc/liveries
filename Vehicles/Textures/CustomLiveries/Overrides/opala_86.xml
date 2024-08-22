@@ -29,5 +29,10 @@
 	  <PREVIEWIMAGE PATH="NBZ\nbz-opala86-preview.dds" />
 	  <TEXTURE NAME="BODY" PATH="NBZ\nbz-opala86-body.dds" />
     </LIVERY_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NRT" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="NRT\NRT-Preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+    </LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>
