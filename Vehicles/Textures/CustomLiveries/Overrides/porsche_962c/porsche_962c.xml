@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Jonny" BASELIVERY="BlankHeadlightsChrome">
+        <PREVIEWIMAGE PATH="KCSR\962c_Jonny_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\962c_Jonny.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\962c_Jonny_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\962c_Jonny_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="AMSU" BASELIVERY="OkadaHeadlightsMatte">
+<PREVIEWIMAGE PATH="AMSU/AMSU-preview.dds" />
+<TEXTURE NAME="BODY" PATH="AMSU/AMSU-962c.dds" />
+<TEXTURE NAME="WINDSCREEN" PATH="AMSU\AMSU-banner.dds" />
+</LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="MVRC Carrazeda" BASELIVERY="OkadaHeadlightsMatte">
+        <PREVIEWIMAGE PATH="MVRC/MVRCCarrazeda_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC/MVRCCarrazeda.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC/MVRCCarrazeda.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC/MVRCCarrazeda_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC/MVRCCarrazeda_fres.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="54" NAME="NRT" BASELIVERY="OkadaHeadlightsMatte">
+<PREVIEWIMAGE PATH="NRT\NRT-A_preview.dds" />
+<TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+<TEXTURE NAME="WINDSCREEN" PATH="NRT\NRT-A_banner.dds" />
+<TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="55" NAME="Logistical Nightmare" BASELIVERY="OkadaHeadlightsMatte">
+<PREVIEWIMAGE PATH="LNR\LNR962cP.dds" />
+<TEXTURE NAME="BODY" PATH="LNR\LNR962c.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="60" NAME="IND #86" BASELIVERY="BlankHeadlightsChrome">
+        <PREVIEWIMAGE PATH="IND\962c_Ind86_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="IND\962c_Ind86.dds" />
+        <TEXTURE NAME="SPEC" PATH="IND\962c_Ind86_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="IND\962c_Ind86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
+
+
+LNR962c

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="KCSR\nissan_r89c_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="KCSR\nissan_r89c.dds" />
+	  <TEXTURE NAME="SPEC" PATH="KCSR\nissan_r89c_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="KCSR\nissan_r89c_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="Noob Gamerz" BASELIVERY="Matte">
+<PREVIEWIMAGE PATH="NBZ\NBZ-nissan_r89c_preview.dds" />
+<TEXTURE NAME="BODY" PATH="NBZ\NBZ-nissan_r89c_template.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="58" NAME="IND 22" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="IND\r89c_22_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="IND\r89c_22.dds" />
+	  <TEXTURE NAME="SPEC" PATH="IND\r89c_22_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="IND\r89c_22_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
