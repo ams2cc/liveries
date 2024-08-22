@@ -12,4 +12,10 @@
 	  <TEXTURE NAME="SPEC" PATH="ams2cc\ams2cc--spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="53" NAME="AMSU" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="amsu\amsu--preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="amsu\amsu--body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="amsu\amsu--spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
