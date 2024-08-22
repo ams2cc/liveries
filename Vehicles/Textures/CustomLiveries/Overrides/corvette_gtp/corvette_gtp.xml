@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+<LIVERY_OVERRIDE LIVERY="51" NAME="Kerb Clippers Blank" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="KCSR\corvette_gtp_blank_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="KCSR\corvette_gtp_blank.dds" />
+	  <TEXTURE NAME="SPEC" PATH="KCSR\corvette_gtp_blank_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="KCSR\corvette_gtp_blank_fresnel.dds" />
+    </LIVERY_OVERRIDE> -->
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="RPM League #33" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview_51.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body_51.dds" />
+    </LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="53" NAME="NRT" BASELIVERY="Matte">
+<PREVIEWIMAGE PATH="NRT\NRT-A_preview.dds" />
+<TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+<TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="54" NAME="Logistical Nightmare" BASELIVERY="Default">
+<PREVIEWIMAGE PATH="LNR\LNRp.dds" />
+<TEXTURE NAME="BODY" PATH="LNR\LNRgtp.dds" />
+</LIVERY_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="58" NAME="IND 25" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="IND\corvette_gtp_25_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="IND\corvette_gtp_25.dds" />
+	  <TEXTURE NAME="SPEC" PATH="IND\corvette_gtp_25_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="IND\corvette_gtp_25_fresnel.dds" />
+    </LIVERY_OVERRIDE> -->
+
+</USER_OVERRIDES>
