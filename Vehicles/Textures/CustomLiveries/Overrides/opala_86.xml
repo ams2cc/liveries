@@ -42,4 +42,11 @@
 	  <TEXTURE NAME="FRESNEL" PATH="PBM\Opala86_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="58" NAME="RPM" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="RPM\Opala86_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="RPM\Opala86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="RPM\Opala86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="RPM\Opala86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
