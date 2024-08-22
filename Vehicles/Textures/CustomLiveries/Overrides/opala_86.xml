@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<USER_OVERRIDES></USER_OVERRIDES>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="10T" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="10T\Driver1\preview86.dds" />
+	  <TEXTURE NAME="BODY" PATH="10T\Driver1\body86.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
