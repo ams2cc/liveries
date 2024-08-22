@@ -24,5 +24,10 @@
 	  <TEXTURE NAME="SPEC" PATH="KCSR\Opala86_spec.dds" />
 	  <TEXTURE NAME="FRESNEL" PATH="KCSR\Opala86_fresnel.dds" />
     </LIVERY_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="55" NAME="NBZ" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="NBZ\nbz-opala86-preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="NBZ\nbz-opala86-body.dds" />
+    </LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>
