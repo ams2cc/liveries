@@ -4,7 +4,7 @@ Automobilista 2 Community Cup
 
 ## Instructions
 
-- Download the livery pack release for the event: 
+- Download the livery pack release for the event: [View Releases](https://github.com/ams2cc/liveries/releases)
 
 ## Installation
 
@@ -12,7 +12,7 @@ Automobilista 2 Community Cup
 
 ## Easy Installation
 
-- Drop the complete downloaded livery pack `.zip` directly into `AMS2 CM` and hit apply.
+- Drag the complete downloaded livery pack `.zip` directly into `AMS2 CM` and hit apply.
 
 ### AMS2 Content Manager Installation
 
