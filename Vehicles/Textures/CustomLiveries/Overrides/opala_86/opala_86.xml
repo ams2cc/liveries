@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
 
+    <LIVERY_OVERRIDE LIVERY="51" NAME="10T" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="10T\Driver1\preview86.dds" />
+	  <TEXTURE NAME="BODY" PATH="10T\Driver1\body86.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="AMS2CC" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="ams2cc\ams2cc--preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="ams2cc\ams2cc--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="AMSU" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="amsu\amsu--preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="amsu\amsu--body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="amsu\amsu--spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="KCSR" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="KCSR\Opala86_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="KCSR\Opala86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="KCSR\Opala86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="KCSR\Opala86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="55" NAME="NBZ" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="NBZ\nbz-opala86-preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="NBZ\nbz-opala86-body.dds" />
+    </LIVERY_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NRT" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="NRT\NRT-Preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="PBM" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="PBM\Opala86_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="PBM\Opala86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="PBM\Opala86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="PBM\Opala86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="RPM" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="RPM\Opala86_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="RPM\Opala86.dds" />
+	  <TEXTURE NAME="SPEC" PATH="RPM\Opala86_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="RPM\Opala86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="59" NAME="RRC" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="RRC\RRC-Preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="RRC\RRC-A.dds" />
+    </LIVERY_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="60" NAME="SRGP" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="SRGP\previewSRGP86.dds" />
+	  <TEXTURE NAME="BODY" PATH="SRGP\bodySRGP86.dds" />
+    </LIVERY_OVERRIDE>
+
 	<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
 		<TEXTURE NAME="BODY_DIFF" PATH="SSR\SSR_Body.dds" />
 		<TEXTURE NAME="ARMS_DIFF" PATH="SSR\SSR_Arms.dds" />
