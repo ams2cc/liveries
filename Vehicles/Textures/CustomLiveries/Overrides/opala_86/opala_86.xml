@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>	
+
+    <LIVERY_OVERRIDE LIVERY="62" NAME="MVRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MVRC\MVRC_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC\MVRC_body.dds" />
+        <TEXTURE NAME="SPEC" PATH="MVRC\MVRC_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="MVRC\MVRC_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
