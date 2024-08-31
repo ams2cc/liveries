@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="NRT" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="nrt\NRT-Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt\NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
