@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
