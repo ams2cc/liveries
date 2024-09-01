@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="srgp\srgphelmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="srgp\srgppeak.dds" />
+    </HELMET_OVERRIDE>
+
+    <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="srgp\srgptorso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="srgp\srgparm.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="srgp\srgpglove.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="srgp\srgpleg.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="srgp\srgpbelt.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="SRGP" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="srgp\srgppreview.dds" />
+        <TEXTURE NAME="BODY" PATH="srgp\srgpbody.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
