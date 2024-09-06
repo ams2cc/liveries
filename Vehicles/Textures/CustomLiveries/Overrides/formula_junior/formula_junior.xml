@@ -50,4 +50,11 @@
 	  <TEXTURE NAME="SPEC" PATH="amsu\amsu--body--spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="54" NAME="KCSR" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr\FJunior_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr\FJunior.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr\FJunior_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr\FJunior_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
