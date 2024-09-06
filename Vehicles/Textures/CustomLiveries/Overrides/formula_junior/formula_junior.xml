@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="10T" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="10T\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="10T\body86.dds" />
+    </LIVERY_OVERRIDE>
+
+
+    <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="10T\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="10T\visor.dds" />
+    </HELMET_OVERRIDE>
+
+
+    <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="10T\body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="10T\arms1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="10T\gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="10T\legs1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="10T\belts1.dds" />
+    </OUTFIT_OVERRIDE>
+
+</USER_OVERRIDES>
