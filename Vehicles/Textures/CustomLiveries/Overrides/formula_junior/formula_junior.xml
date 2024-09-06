@@ -77,4 +77,22 @@
         <TEXTURE NAME="FRESNEL" PATH="mvrc\MVRC_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz\torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nbz\arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nbz\gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nbz\legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nbz\belts.dds" />
+    </OUTFIT_OVERRIDE>
+
+	<HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="nbz\visor.dds" />
+    </HELMET_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="nbz" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\body.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
