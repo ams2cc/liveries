@@ -1,0 +1,22 @@
+v<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="ssr\SSR_Helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="ssr\SSR_Visor.dds" />
+    </HELMET_OVERRIDE>
+
+    <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="ssr\SSR_Body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="ssr\SSR_Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="ssr\SSR_Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="ssr\SSR_Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="ssr\SSR_Belts.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="SSR" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="ssr\SSR_Preview.dds"/>
+        <TEXTURE NAME="BODY" PATH="ssr\SSR_Livery.dds"/>
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
