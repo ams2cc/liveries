@@ -17,6 +17,17 @@
         <TEXTURE NAME="SEATBELTS_DIFF" PATH="10T\belts1.dds" />
     </OUTFIT_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="ams2cc\ams2cc--helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="ams2cc\ams2cc--helmet-peak.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="ams2cc\ams2cc--torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="ams2cc\ams2cc--arms.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="ams2cc\ams2cc--legs.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="ams2cc\ams2cc--gloves.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="ams2cc\ams2cc--harness.dds" />
+    </OUTFIT_OVERRIDE>
     <LIVERY_OVERRIDE LIVERY="52" NAME="AMS2CC" BASELIVERY="Matte">
         <PREVIEWIMAGE PATH="ams2cc\ams2cc--preview.dds" />
         <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--body.dds" />
