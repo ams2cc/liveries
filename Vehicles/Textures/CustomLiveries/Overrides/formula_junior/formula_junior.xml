@@ -121,4 +121,9 @@
         <TEXTURE NAME="FRESNEL" PATH="pbm\FJunior_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="59" NAME="RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
