@@ -114,4 +114,11 @@
         <TEXTURE NAME="SPEC" PATH="nrt\NRT-A_spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <LIVERY_OVERRIDE LIVERY="58" NAME="PBM" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="pbm\FJunior_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="pbm\FJunior.dds" />
+        <TEXTURE NAME="SPEC" PATH="pbm\FJunior_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="pbm\FJunior_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
