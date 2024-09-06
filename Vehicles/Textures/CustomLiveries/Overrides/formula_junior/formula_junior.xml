@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
 
-    <LIVERY_OVERRIDE LIVERY="60" NAME="PBM" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="58" NAME="PBM" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="pbm\FJunior_thumb.dds" />
         <TEXTURE NAME="BODY" PATH="pbm\FJunior.dds" />
         <TEXTURE NAME="SPEC" PATH="pbm\FJunior_spec.dds" />
