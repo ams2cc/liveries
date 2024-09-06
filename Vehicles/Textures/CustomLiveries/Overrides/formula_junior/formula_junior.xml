@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
-	
-    <OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+
+    <OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
         <TEXTURE NAME="BODY_DIFF" PATH="rrc\torso.dds" />
         <TEXTURE NAME="ARMS_DIFF" PATH="rrc\arms.dds" />
         <TEXTURE NAME="GLOVES_DIFF" PATH="rrc\gloves.dds" />
@@ -9,15 +9,15 @@
         <TEXTURE NAME="SEATBELTS_DIFF" PATH="rrc\belts.dds" />
     </OUTFIT_OVERRIDE>
 
-    <HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+    <HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
         <TEXTURE NAME="BODY_DIFF" PATH="rrc\helmet.dds" />
         <TEXTURE NAME="VISOR_DIFF" PATH="rrc\visor.dds" />
     </HELMET_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="52" NAME="RRC" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="60" NAME="RRC" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="rrc\RRC-Preview.dds" />
         <TEXTURE NAME="BODY" PATH="rrc\RRC-A.dds" />
         <TEXTURE NAME="SPEC" PATH="rrc\RRC-A_spec.dds" />
     </LIVERY_OVERRIDE>
-	
+
 </USER_OVERRIDES>
