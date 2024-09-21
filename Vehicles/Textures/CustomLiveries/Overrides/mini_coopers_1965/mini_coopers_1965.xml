@@ -61,4 +61,22 @@
         <TEXTURE NAME="FRESNEL" PATH="kcsr\Mini1965_fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="mvrc\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="mvrc\visor.dds" />
+    </HELMET_OVERRIDE>
+     <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="mvrc\torso1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="mvrc\arms1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="mvrc\legs1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="mvrc\belts1.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="55" NAME="MVRC" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="mvrc\MVRC_preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="mvrc\MVRC_body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="mvrc\MVRC_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="mvrc\MVRC_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
