@@ -112,4 +112,20 @@
         <TEXTURE NAME="SPEC" PATH="nrt\NRT_spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="rpm\visor.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm\body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="rpm\arms1.dds" />`
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="rpm\belts1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="rpm\gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="rpm\legs1.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="59" NAME="RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview21.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body21.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
