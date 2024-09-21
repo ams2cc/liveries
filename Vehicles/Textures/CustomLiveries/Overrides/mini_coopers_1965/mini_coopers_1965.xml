@@ -33,4 +33,25 @@
         <TEXTURE NAME="SPEC" PATH="ams2cc\ams2cc--body--spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="amsu\amsu--helmet.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="amsu\amsu--helmet--spec.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="amsu\amsu--helmet-peak.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="amsu\amsu--torso.dds" />
+        <TEXTURE NAME="BODY_SPEC" PATH="amsu\amsu--torso--spec.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="amsu\amsu--arms.dds" />
+        <TEXTURE NAME="ARMS_SPEC" PATH="amsu\amsu--arms--spec.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="amsu\amsu--legs.dds" />
+        <TEXTURE NAME="LEGS_SPEC" PATH="amsu\amsu--legs--spec.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="amsu\amsu--gloves.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="amsu\amsu--harness.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="53" NAME="AMSU" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="amsu\amsu--preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="amsu\amsu--body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="amsu\amsu--body--spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
