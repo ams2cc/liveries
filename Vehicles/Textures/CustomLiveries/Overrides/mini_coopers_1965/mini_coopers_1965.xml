@@ -95,4 +95,21 @@
         <TEXTURE NAME="BODY" PATH="nbz\body59.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="57" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="nrt\visor.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="57" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt\torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nrt\arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nrt\gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nrt\legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nrt\belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="57" NAME="NRT" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="nrt\NRT-Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt\NRT-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt\NRT_spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
