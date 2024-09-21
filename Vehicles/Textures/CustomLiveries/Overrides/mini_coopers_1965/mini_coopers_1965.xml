@@ -145,4 +145,20 @@
         <TEXTURE NAME="SPEC" PATH="rrc\RRC-A_spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="srgp/srgphelmet.dds" />
+        <TEXTURE NAME="VISOR" PATH="srgp/srgppeak.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="srgp/srgptorso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="srgp/srgparm.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="srgp/srgpglove.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="srgp/srgpleg.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="srgp/srgpbelt.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="61" NAME="SRGP" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="srgp\srgppreview.dds" />
+        <TEXTURE NAME="BODY" PATH="srgp\SRGPminiBODY.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
