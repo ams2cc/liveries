@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rrc/helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="rrc/visor.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rrc/torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="rrc/arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="rrc/gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="rrc/legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="rrc/belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="67" NAME="RRC #1" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="rrc/RRC-Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="rrc/RRC-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="rrc/RRC-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rrc/helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="rrc/visor.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rrc/torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="rrc/arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="rrc/gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="rrc/legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="rrc/belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="68" NAME="RRC #2" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="rrc/RRC-Preview-B.dds" />
+        <TEXTURE NAME="BODY" PATH="rrc/RRC-B.dds" />
+        <TEXTURE NAME="SPEC" PATH="rrc/RRC-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
