@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="KCSR #1" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr/F V10G2_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr/F V10G2.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr/F V10G2_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr/F V10G2_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="KCSR #2" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="kcsr/F V10G2_red_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="kcsr/F V10G2_red.dds" />
+        <TEXTURE NAME="SPEC" PATH="kcsr/F V10G2_red_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="kcsr/F V10G2_red_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
