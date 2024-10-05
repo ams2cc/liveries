@@ -179,4 +179,36 @@
         <TEXTURE NAME="SPEC" PATH="nrt/AMS2_FV10_NRT-SPEC.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="rpm\visor1.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm\body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="rpm\arms1.dds" />`
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="rpm\belts1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="rpm\gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="rpm\legs1.dds" />
+    </OUTFIT_OVERRIDE>
+        <LIVERY_OVERRIDE LIVERY="65" NAME="RPM #1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview21.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body21.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="rpm\visor1.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm\body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="rpm\arms1.dds" />`
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="rpm\belts1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="rpm\gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="rpm\legs1.dds" />
+    </OUTFIT_OVERRIDE>
+        <LIVERY_OVERRIDE LIVERY="66" NAME="RPM #2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="rpm\preview21.dds" />
+        <TEXTURE NAME="BODY" PATH="rpm\body21.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
