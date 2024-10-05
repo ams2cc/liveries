@@ -245,4 +245,34 @@
         <TEXTURE NAME="SPEC" PATH="rrc/RRC-A_spec.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/Fv10srgp1helmet.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/srgptorsoM.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="SRGP/srgparmsM.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="SRGP/srgpglovesM.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="SRGP/srgplegsM.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SRGP/srgpbeltM.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="69" NAME="SRGP #1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="SRGP\srgp1preview.dds" />
+        <TEXTURE NAME="BODY" PATH="SRGP\Fv10srgpbody.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/Fv10srgp2helmet.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/srgptorsoM.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="SRGP/srgparmsM.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="SRGP/srgpglovesM.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="SRGP/srgplegsM.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SRGP/srgpbeltM.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="70" NAME="SRGP #2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="SRGP\srgp2preview.dds" />
+        <TEXTURE NAME="BODY" PATH="SRGP\Fv10srgpbody.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
