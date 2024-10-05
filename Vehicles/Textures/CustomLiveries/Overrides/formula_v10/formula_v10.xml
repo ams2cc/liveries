@@ -145,4 +145,38 @@
         <TEXTURE NAME="BODY" PATH="nbz/body61.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt/NRT_helmet-01.dds" />
+        <!-- <TEXTURE NAME="VISOR_DIFF" PATH="xxx" /> -->
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt/NRT_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nrt/NRT_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nrt/NRT_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nrt/NRT_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nrt/belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="63" NAME="NRT #1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt/NRT-Preview-01.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt/AMS2_FV10_NRT-01.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt/AMS2_FV10_NRT-SPEC.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt/NRT_helmet-02.dds" />
+        <!-- <TEXTURE NAME="VISOR_DIFF" PATH="xxx" /> -->
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt/NRT_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nrt/NRT_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nrt/NRT_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nrt/NRT_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nrt/belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="64" NAME="NRT #2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt/NRT-Preview-02.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt/AMS2_FV10_NRT-02.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt/AMS2_FV10_NRT-SPEC.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
