@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+	<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="mvrc/MVRC_helmet.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="mvrc/MVRC_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="mvrc/MVRC_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="mvrc/MVRC_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="mvrc/MVRC_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="mvrc/MVRC_belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="59" NAME="MVRC #1" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="mvrc/MVRC_Preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="mvrc/MVRC_body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="mvrc/MVRC_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="mvrc/MVRC_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+	<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="mvrc/MVRC_helmet.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="mvrc/MVRC_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="mvrc/MVRC_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="mvrc/MVRC_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="mvrc/MVRC_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="mvrc/MVRC_belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="60" NAME="MVRC #2" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="mvrc/MVRC_Preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="mvrc/MVRC_body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="mvrc/MVRC_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="mvrc/MVRC_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
