@@ -47,4 +47,20 @@
 		<TEXTURE NAME="BODY" PATH="ssr_srgp/SSR_Livery.dds" />
 	</LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz_rpm/helmet51.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="nbz_rpm/visor51.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz_rpm/torso51.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nbz_rpm/arms51.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nbz_rpm/gloves51.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nbz_rpm/legs51.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nbz_rpm/belts51.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="55" NAME="NBZRPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz_rpm/preview51.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz_rpm/body51.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
