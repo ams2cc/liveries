@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="10T MVRC" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="10t_mvrc/preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="10t_mvrc/body86.dds" />
+        <TEXTURE NAME="SPEC" PATH="10t_mvrc/body86_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="10t_mvrc/body86_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
