@@ -25,7 +25,7 @@
 	  <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc--spec.dds" />
     </LIVERY_OVERRIDE>
 
-    <LIVERY_OVERRIDE LIVERY="53" NAME="10T MVRC" BASELIVERY="Chrome">
+    <LIVERY_OVERRIDE LIVERY="53" NAME="10T MVRC" BASELIVERY="RedMetallic">
         <PREVIEWIMAGE PATH="10t_mvrc/preview86.dds" />
         <TEXTURE NAME="BODY" PATH="10t_mvrc/body86.dds" />
         <TEXTURE NAME="SPEC" PATH="10t_mvrc/body86_spec.dds" />
