@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <LIVERY_OVERRIDE LIVERY="57" NAME="KCSR Blue" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\Stockcar 19_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\Stockcar 19.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KCSR\Stockcar 19_banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\Stockcar 19_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\Stockcar 19_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="KCSR Red" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="KCSR\Stockcar 19_Red_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="KCSR\Stockcar 19_Red.dds" />
+        <TEXTURE NAME="WINDSCREEN" PATH="KCSR\Stockcar 19_Red_banner.dds" />
+        <TEXTURE NAME="SPEC" PATH="KCSR\Stockcar 19_Red_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="KCSR\Stockcar 19_Red_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
