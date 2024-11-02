@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+	<LIVERY_OVERRIDE LIVERY="51" NAME="10T #1" BASELIVERY="Chrome">
+        	<PREVIEWIMAGE PATH="10T1\preview38.dds" />
+        	<TEXTURE NAME="BODY" PATH="10T1\body38.dds" />
+        	<TEXTURE NAME="WINDSCREEN" PATH="10T1\banner86.dds" />
+        	<TEXTURE NAME="SPEC" PATH="10T1\body38_spec.dds" />
+        	<TEXTURE NAME="FRESNEL" PATH="10T1\body38_fresnel.dds" />
+    	</LIVERY_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="52" NAME="10T #2" BASELIVERY="Chrome">
+        	<PREVIEWIMAGE PATH="10T2\preview38.dds" />
+        	<TEXTURE NAME="BODY" PATH="10T2\body38.dds" />
+        	<TEXTURE NAME="WINDSCREEN" PATH="10T2\banner86.dds" />
+        	<TEXTURE NAME="SPEC" PATH="10T2\body38_spec.dds" />
+        	<TEXTURE NAME="FRESNEL" PATH="10T2\body38_fresnel.dds" />
+    	</LIVERY_OVERRIDE>
+</USER_OVERRIDES>
