@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    <HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz\helmet51.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="nbz\visor51.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz\torso51.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nbz\arms51dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nbz\gloves51.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nbz\legs51.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nbz\belts51.dds" />
+    </OUTFIT_OVERRIDE>
+        <LIVERY_OVERRIDE LIVERY="61" NAME="nbz1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\preview51.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\body51.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz\helmet51.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="nbz\visor51.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nbz\torso51.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nbz\arms51dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nbz\gloves51.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nbz\legs51.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nbz\belts51.dds" />
+    </OUTFIT_OVERRIDE>
+        <LIVERY_OVERRIDE LIVERY="62" NAME="nbz2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nbz\preview52.dds" />
+        <TEXTURE NAME="BODY" PATH="nbz\body52.dds" />
+    </LIVERY_OVERRIDE>
+</USER_OVERRIDES>
