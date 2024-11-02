@@ -51,4 +51,40 @@
             <TEXTURE NAME="SPEC" PATH="ams2cc/ams2cc2--body--spec.dds" />
             <TEXTURE NAME="FRESNEL" PATH="ams2cc/ams2cc2--body--fresnel.dds" />
       </LIVERY_OVERRIDE>
+      
+	<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+            <TEXTURE NAME="BODY_DIFF" PATH="amsu/amsu--helmet.dds" />
+            <TEXTURE NAME="VISOR_DIFF" PATH="amsu/amsu--helmet--visor.dds" />
+      </HELMET_OVERRIDE>
+      <OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="BODY_DIFF" PATH="amsu/amsu--torso.dds" />
+            <TEXTURE NAME="ARMS_DIFF" PATH="amsu/amsu--arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="amsu/amsu--gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="amsu/amsu--legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="amsu/amsu--harness.dds" />
+      </OUTFIT_OVERRIDE>
+      <LIVERY_OVERRIDE LIVERY="55" NAME="AMSU" BASELIVERY="Chrome">
+            <PREVIEWIMAGE PATH="amsu/amsu--preview.dds" />
+            <TEXTURE NAME="BODY" PATH="amsu/amsu--body.dds" />
+            <TEXTURE NAME="SPEC" PATH="amsu/amsu--body--spec.dds" />
+            <TEXTURE NAME="FRESNEL" PATH="amsu/amsu--body--fresnel.dds" />
+      </LIVERY_OVERRIDE>
+
+      <HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+            <TEXTURE NAME="BODY_DIFF" PATH="amsu/amsu--helmet.dds" />
+            <TEXTURE NAME="VISOR_DIFF" PATH="amsu/amsu--helmet--visor.dds" />
+      </HELMET_OVERRIDE>
+      <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+            <TEXTURE NAME="BODY_DIFF" PATH="amsu/amsu--torso.dds" />
+            <TEXTURE NAME="ARMS_DIFF" PATH="amsu/amsu--arms.dds" />
+            <TEXTURE NAME="GLOVES_DIFF" PATH="amsu/amsu--gloves.dds" />
+            <TEXTURE NAME="LEGS_DIFF" PATH="amsu/amsu--legs.dds" />
+            <TEXTURE NAME="SEATBELTS_DIFF" PATH="amsu/amsu--harness.dds" />
+      </OUTFIT_OVERRIDE>
+      <LIVERY_OVERRIDE LIVERY="56" NAME="AMSU Orange" BASELIVERY="Chrome">
+            <PREVIEWIMAGE PATH="amsu/amsu2--preview.dds" />
+            <TEXTURE NAME="BODY" PATH="amsu/amsu2--body.dds" />
+            <TEXTURE NAME="SPEC" PATH="amsu/amsu2--body--spec.dds" />
+            <TEXTURE NAME="FRESNEL" PATH="amsu/amsu2--body--fresnel.dds" />
+      </LIVERY_OVERRIDE>
 </USER_OVERRIDES>
