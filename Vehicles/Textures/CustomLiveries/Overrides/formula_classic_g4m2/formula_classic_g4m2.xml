@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="AMSU / KCSR" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="amsu_kcsr\FClassicG4M2_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="amsu_kcsr\FClassicG4M2.dds" />
+        <TEXTURE NAME="SPEC" PATH="amsu_kcsr\FClassicG4M2_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="amsu_kcsr\FClassicG4M2_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
