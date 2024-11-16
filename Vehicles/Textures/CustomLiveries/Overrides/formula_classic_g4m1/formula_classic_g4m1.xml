@@ -26,7 +26,6 @@
         <TEXTURE NAME="FRESNEL" PATH="ams2cc/ams2cc--body--fresnel.dds" />
     </LIVERY_OVERRIDE>
 
-
     <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
         <TEXTURE NAME="BODY_DIFF" PATH="10t_mvrc\body1.dds" />
         <TEXTURE NAME="ARMS_DIFF" PATH="10t_mvrc\arms3.dds" />
@@ -38,5 +37,20 @@
         <PREVIEWIMAGE PATH="10t_mvrc\preview86.dds" />
         <TEXTURE NAME="BODY" PATH="10t_mvrc\body86.dds" />
     </LIVERY_OVERRIDE>
+
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="ssr_srgp/SSR_SRGP_helmet.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="ssr_srgp/SSR_SRGP_body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="ssr_srgp/SSR_SRGP_arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="ssr_srgp/SSR_SRGP_gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="ssr_srgp/SSR_SRGP_legs.dds" />
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="ssr_srgp/black_safety_harness.dds" />
+	</OUTFIT_OVERRIDE>
+	<LIVERY_OVERRIDE LIVERY="54" NAME="SSR SRGP" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="ssr_srgp/SSR_SRGP_Preview.dds" />
+		<TEXTURE NAME="BODY" PATH="ssr_srgp/SSR_SRGP_Livery.dds" />
+	</LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>
