@@ -69,4 +69,20 @@
         <TEXTURE NAME="BODY" PATH="nbz_rpm\body51.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt_rrc/NRT_RRC-helmet_90s.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt_rrc/NRT_RRC_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nrt_rrc/NRT_RRC_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nrt_rrc/NRT_RRC_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nrt_rrc/NRT_RRC_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nrt_rrc/belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NRT RRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nrt_rrc/NRT_RRC-Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt_rrc/AMS2_FClassic_G4M1_NRT_RRC.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt_rrc/AMS2_FClassic_G4M1_NRT_RRC-spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
