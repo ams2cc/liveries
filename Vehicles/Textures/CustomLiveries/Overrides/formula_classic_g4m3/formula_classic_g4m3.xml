@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="10t_mvrc\body1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="10t_mvrc\gloves1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="10t_mvrc\belts1.dds" />
+    </OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="10T MVRC" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="10t_mvrc\preview86.dds" />
+        <TEXTURE NAME="BODY" PATH="10t_mvrc\body86.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
