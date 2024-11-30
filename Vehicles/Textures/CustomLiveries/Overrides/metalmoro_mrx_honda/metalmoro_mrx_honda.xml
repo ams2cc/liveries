@@ -17,4 +17,13 @@
         <TEXTURE NAME="FRESNEL" PATH="ams2cc/ams2cc--body--fresnel.dds" />
     </LIVERY_OVERRIDE>
 
+    <HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="10t_mvrc\helmet.dds" />
+    </HELMET_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="53" NAME="10T / MVRC" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="10t_mvrc\previewMVT10.dds" />
+        <TEXTURE NAME="BODY" PATH="10t_mvrc\body.dds" />
+        <TEXTURE NAME="SPEC" PATH="10t_mvrc\body_spec.dds" />
+    </LIVERY_OVERRIDE>
+
 </USER_OVERRIDES>
