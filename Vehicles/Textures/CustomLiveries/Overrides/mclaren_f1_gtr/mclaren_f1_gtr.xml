@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="10T / MVRC" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="10t_mvrc\preview38.dds" />
+        <TEXTURE NAME="BODY" PATH="10t_mvrc\body86.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
