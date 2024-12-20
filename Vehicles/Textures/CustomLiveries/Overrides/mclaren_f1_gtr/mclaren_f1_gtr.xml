@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="AMSU / KCSR" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="amsu_kcsr\f1_gtr_thumb.dds" />
+        <TEXTURE NAME="BODY" PATH="amsu_kcsr\f1_gtr.dds" />
+        <TEXTURE NAME="SPEC" PATH="amsu_kcsr\f1_gtr_spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="amsu_kcsr\f1_gtr_fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="AMS2CC" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="ams2cc\ams2cc--preview.dds" />
+        <TEXTURE NAME="BODY" PATH="ams2cc\ams2cc--body.dds" />
+        <TEXTURE NAME="SPEC" PATH="ams2cc\ams2cc--body--spec.dds" />
+        <TEXTURE NAME="FRESNEL" PATH="ams2cc\ams2cc--body--fresnel.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="10T / MVRC" BASELIVERY="Matte">
+        <PREVIEWIMAGE PATH="10t_mvrc\preview38.dds" />
+        <TEXTURE NAME="BODY" PATH="10t_mvrc\body86.dds" />
+    </LIVERY_OVERRIDE>
+
+	<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="ssr_srgp/SSR_Helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="ssr_srgp/SSR_Visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="ssr_srgp/SSR_Body.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="ssr_srgp/SSR_Arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="ssr_srgp/SSR_Gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="ssr_srgp/SSR_Legs.dds" />
+	</OUTFIT_OVERRIDE>
+	<LIVERY_OVERRIDE LIVERY="54" NAME="SSR / SRGP" BASELIVERY="Matte">
+		<PREVIEWIMAGE PATH="ssr_srgp/SSR_Preview.dds" />
+		<TEXTURE NAME="BODY" PATH="ssr_srgp/SSR_Livery.dds" />
+	</LIVERY_OVERRIDE>
+
+	<LIVERY_OVERRIDE LIVERY="55" NAME="NBZ / RPM" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="nzb_rpm\f1_gtr_nzb_rpm_preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nzb_rpm\f1_gtr_nzb_rpm.dds" />
+    </LIVERY_OVERRIDE>
+
+    <HELMET_OVERRIDE LIVERY="56" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt_rrc\Helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="nrt_rrc\Visor.dds" />
+    </HELMET_OVERRIDE>
+    <OUTFIT_OVERRIDE LIVERY="56" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt_rrc\Torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="nrt_rrc\Arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="nrt_rrc\Gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="nrt_rrc\Legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="nrt_rrc\Belts.dds" />
+    </OUTFIT_OVERRIDE>
+    <LIVERY_OVERRIDE LIVERY="56" NAME="NRT" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="nrt_rrc\NRT-Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="nrt_rrc\NRT-A.dds" />
+        <TEXTURE NAME="SPEC" PATH="nrt_rrc\NRT-A_spec.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
