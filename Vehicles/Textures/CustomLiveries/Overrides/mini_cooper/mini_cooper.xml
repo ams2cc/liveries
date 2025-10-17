@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+    
+<LIVERY_OVERRIDE LIVERY="51" NAME="KCSR" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="KCSR\MiniJCW_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="KCSR\MiniJCW.dds" />
+	  <TEXTURE NAME="SPEC" PATH="KCSR\MiniJCW_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="KCSR\MiniJCW_fresnel.dds" />
+	  <TEXTURE NAME="PLATE" PATH="KCSR\MiniJCW_Plate.dds" />
+	  <TEXTURE NAME="PLATEG" PATH="KCSR\MiniJCW_PlateGlow.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="KCSR\MiniJCW_Wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="KCSR\MiniJCW_Wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="KCSR\MiniJCW_Wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="KCSR\MiniJCW_Wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="KCSR\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="KCSR\visor.dds" />
+    </HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="KCSR\modern_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="KCSR\modern_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="KCSR\gt_modern_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="KCSR\modern_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="KCSR\modern_safety_harness.dds" />
+</OUTFIT_OVERRIDE>
+
+
+<LIVERY_OVERRIDE LIVERY="52" NAME="Slip Stream Racing" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="SLIP\MiniJCW_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="SLIP\MiniJCW.dds" />
+	  <TEXTURE NAME="SPEC" PATH="SLIP\MiniJCW_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="SLIP\MiniJCW_fresnel.dds" />
+	  <TEXTURE NAME="PLATE" PATH="SLIP\MiniJCW_Plate.dds" />
+	  <TEXTURE NAME="PLATEG" PATH="SLIP\MiniJCW_PlateGlow.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="SLIP\MiniJCW_Wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="SLIP\MiniJCW_Wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="SLIP\MiniJCW_Wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="SLIP\MiniJCW_Wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SLIP\helmet_80s.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="SLIP\visor_80s.dds" />
+    </HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SLIP\modern_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="SLIP\modern_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="SLIP\gt_modern_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="SLIP\modern_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SLIP\modern_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="53" NAME="Slip Stream Racing" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="SLIP\MiniJCW_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="SLIP\MiniJCW.dds" />
+	  <TEXTURE NAME="SPEC" PATH="SLIP\MiniJCW_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="SLIP\MiniJCW_fresnel.dds" />
+	  <TEXTURE NAME="PLATE" PATH="SLIP\MiniJCW_Plate.dds" />
+	  <TEXTURE NAME="PLATEG" PATH="SLIP\MiniJCW_PlateGlow.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="SLIP\MiniJCW_Wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="SLIP\MiniJCW_Wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="SLIP\MiniJCW_Wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="SLIP\MiniJCW_Wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SLIP\helmet_80s.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="SLIP\visor_80s.dds" />
+    </HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SLIP\modern_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="SLIP\modern_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="SLIP\gt_modern_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="SLIP\modern_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SLIP\modern_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+
+<LIVERY_OVERRIDE LIVERY="54" NAME="Club 50" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="Club50\MiniJCW_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="Club50\MiniJCW.dds" />
+	  <TEXTURE NAME="SPEC" PATH="Club50\MiniJCW_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="Club50\MiniJCW_fresnel.dds" />
+	  <TEXTURE NAME="PLATE" PATH="Club50\MiniJCW_Plate.dds" />
+	  <TEXTURE NAME="PLATEG" PATH="Club50\MiniJCW_PlateGlow.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="Club50\MiniJCW_Wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="Club50\MiniJCW_Wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="Club50\MiniJCW_Wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="Club50\MiniJCW_Wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="54" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="Club50\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="Club50\visor.dds" />
+    </HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="54" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="Club50\modern_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="Club50\modern_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="Club50\gt_modern_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="Club50\modern_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="Club50\modern_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="55" NAME="Club 50" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="Club50\MiniJCW_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="Club50\MiniJCW.dds" />
+	  <TEXTURE NAME="SPEC" PATH="Club50\MiniJCW_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="Club50\MiniJCW_fresnel.dds" />
+	  <TEXTURE NAME="PLATE" PATH="Club50\MiniJCW_Plate.dds" />
+	  <TEXTURE NAME="PLATEG" PATH="Club50\MiniJCW_PlateGlow.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="Club50\MiniJCW_Wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="Club50\MiniJCW_Wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="Club50\MiniJCW_Wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="Club50\MiniJCW_Wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="55" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="Club50\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="Club50\visor.dds" />
+    </HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="55" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="Club50\modern_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="Club50\modern_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="Club50\gt_modern_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="Club50\modern_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="Club50\modern_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="MVRCMini/MVRCMini" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRCMini/MVRCMini_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRCMini/MVRCMini.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRCMini/MVRCMini.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="MVRCMiniBritish/MVRCMiniBritish" BASELIVERY="Chrome">
+        <PREVIEWIMAGE PATH="MVRCMiniBritish/MVRCMiniBritish_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRCMiniBritish/MVRCMiniBritish.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRCMiniBritish/MVRCMiniBritish.dds" />
+    </LIVERY_OVERRIDE>
+
+
+
+<LIVERY_OVERRIDE LIVERY="58" NAME="AMSU" BASELIVERY="SilverMetallic">
+	  <PREVIEWIMAGE PATH="amsu\preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="amsu\body.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="amsu\wheel.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="amsu\wheel_blur.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="amsu\wheel_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="amsu\wheel_spec_blur.dds" />	   
+    </LIVERY_OVERRIDE>
+		<HELMET_OVERRIDE LIVERY="58" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="amsu\helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="amsu\visor.dds"/>
+		<TEXTURE NAME="VISOR_SPEC" PATH="amsu\visor_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="58" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="amsu\torso.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="amsu\arms_blue.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="amsu\gloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="amsu\gloves_spec.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="amsu\legs_blue.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="amsu\belts_lightblue.dds"/>
+	</OUTFIT_OVERRIDE>
+	
+    <LIVERY_OVERRIDE LIVERY="59" NAME="AMSU_b" BASELIVERY="Matte">
+	  <PREVIEWIMAGE PATH="amsu\preview_b.dds" />
+	  <TEXTURE NAME="BODY" PATH="amsu\body_b.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="amsu\wheel.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="amsu\wheel_blur.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="amsu\wheel_spec.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="amsu\wheel_spec_blur.dds" />	   
+    </LIVERY_OVERRIDE>
+		<HELMET_OVERRIDE LIVERY="59" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="amsu\helmet_b.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="amsu\visor.dds"/>
+		<TEXTURE NAME="VISOR_SPEC" PATH="amsu\visor_spec.dds"/>
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="59" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="amsu\torso.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="amsu\arms_blue.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="amsu\gloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="amsu\gloves_spec.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="amsu\legs_blue.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="amsu\belts_lightblue.dds"/>
+	</OUTFIT_OVERRIDE>
+
+
+<LIVERY_OVERRIDE LIVERY="60" NAME="10 Tenths" BASELIVERY="Matte">
+	<PREVIEWIMAGE PATH="10_Tenths_Mini\preview12.dds" />
+	<TEXTURE NAME="BODY" PATH="10_Tenths_Mini\body12.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="10_Tenths_Mini\rim_diff.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="10_Tenths_Mini\rim_blur.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="10_Tenths_Mini\rim_blur_spec.dds" />
+</LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="60" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="10_Tenths_Mini\helmet.dds" />
+        <TEXTURE NAME="VISOR" PATH="10_Tenths_Mini\visor.dds" />
+</HELMET_OVERRIDE>
+	
+<OUTFIT_OVERRIDE LIVERY="60" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="10_Tenths_Mini\body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="10_Tenths_Mini\arms1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="10_Tenths_Mini\gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="10_Tenths_Mini\legs1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="10_Tenths_Mini\belts1.dds" />
+</OUTFIT_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="61" NAME="10 Tenths" BASELIVERY="Matte">
+	<PREVIEWIMAGE PATH="10_Tenths_Mini\preview12.dds" />
+	<TEXTURE NAME="BODY" PATH="10_Tenths_Mini\body12.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="10_Tenths_Mini\rim_diff.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="10_Tenths_Mini\rim_blur.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="10_Tenths_Mini\rim_blur_spec.dds" />
+</LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="61" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY" PATH="10_Tenths_Mini\helmet.dds" />
+        <TEXTURE NAME="VISOR" PATH="10_Tenths_Mini\visor.dds" />
+</HELMET_OVERRIDE>
+	
+<OUTFIT_OVERRIDE LIVERY="61" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="10_Tenths_Mini\body1.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="10_Tenths_Mini\arms1.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="10_Tenths_Mini\gloves1.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="10_Tenths_Mini\legs1.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="10_Tenths_Mini\belts1.dds" />
+</OUTFIT_OVERRIDE>
+
+
+<LIVERY_OVERRIDE LIVERY="62" NAME="NRT Black" BASELIVERY="Chrome">
+	<PREVIEWIMAGE PATH="NRT\NRT-Preview.dds" />
+	<TEXTURE NAME="BODY" PATH="NRT\NRT-A.dds" />
+	<TEXTURE NAME="SPEC" PATH="NRT\NRT-A_spec.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="NRT\ultima_race_rim_diff.dds"  />
+	<TEXTURE NAME="WHEELSPEC" PATH="NRT\ultima_race_rim_silver_blur_spec.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="NRT\ultima_race_rim_silver_blur_diff.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="NRT\ultima_race_rim_silver_blur_spec.dds" />	
+</LIVERY_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="62" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="NRT\torso.dds" />
+	<TEXTURE NAME="ARMS_DIFF" PATH="NRT\arms.dds" />
+	<TEXTURE NAME="GLOVES_DIFF" PATH="NRT\gloves.dds" />
+	<TEXTURE NAME="LEGS_DIFF" PATH="NRT\legs.dds" />
+	<TEXTURE NAME="SEATBELTS_DIFF" PATH="NRT\belts.dds" />
+</OUTFIT_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="62" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="NRT\helmet.dds" />
+</HELMET_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="63" NAME="NRT Orange" BASELIVERY="Chrome">
+	<PREVIEWIMAGE PATH="NRT\NRT-PreviewB.dds" />
+	<TEXTURE NAME="BODY" PATH="NRT\NRT-B.dds" />
+	<TEXTURE NAME="SPEC" PATH="NRT\NRT-B_spec.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="NRT\ultima_race_rim_diff.dds"  />
+	<TEXTURE NAME="WHEELSPEC" PATH="NRT\ultima_race_rim_silver_blur_spec.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="NRT\ultima_race_rim_silver_blur_diff.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="NRT\ultima_race_rim_silver_blur_spec.dds" />	
+</LIVERY_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="63" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="NRT\torso.dds" />
+	<TEXTURE NAME="ARMS_DIFF" PATH="NRT\arms.dds" />
+	<TEXTURE NAME="GLOVES_DIFF" PATH="NRT\gloves.dds" />
+	<TEXTURE NAME="LEGS_DIFF" PATH="NRT\legs.dds" />
+	<TEXTURE NAME="SEATBELTS_DIFF" PATH="NRT\belts.dds" />
+</OUTFIT_OVERRIDE>
+	
+	<HELMET_OVERRIDE LIVERY="63" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="NRT\helmet.dds" />
+</HELMET_OVERRIDE>
+
+
+ <LIVERY_OVERRIDE LIVERY="64" NAME="RPM1" BASELIVERY="Default">
+<PREVIEWIMAGE PATH="rpm1\preview21.dds"/>
+<TEXTURE NAME="BODY" PATH="rpm1\body21.dds"/>
+</LIVERY_OVERRIDE>
+<OUTFIT_OVERRIDE LIVERY="64" BASEOUTFIT="DEFAULT">
+<TEXTURE NAME="BODY_DIFF" PATH="rpm1\body1.dds"/>
+<TEXTURE NAME="ARMS_DIFF" PATH="rpm1\arms1.dds"/>
+<TEXTURE NAME="SEATBELTS_DIFF" PATH="rpm1\belts1.dds"/>
+<TEXTURE NAME="GLOVES_DIFF" PATH="rpm1\gloves1.dds"/>
+<TEXTURE NAME="LEGS_DIFF" PATH="rpm1\legs1.dds"/>
+</OUTFIT_OVERRIDE>
+<HELMET_OVERRIDE LIVERY="64" BASEHELMET="DEFAULT">
+<TEXTURE NAME="BODY_DIFF" PATH="rpm1\helmet.dds"/>
+</HELMET_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="65" NAME="RPM2" BASELIVERY="Default">
+<PREVIEWIMAGE PATH="rpm2\preview21.dds"/>
+<TEXTURE NAME="BODY" PATH="rpm2\body21.dds"/>
+</LIVERY_OVERRIDE>
+<OUTFIT_OVERRIDE LIVERY="65" BASEOUTFIT="DEFAULT">
+<TEXTURE NAME="BODY_DIFF" PATH="rpm2\body1.dds"/>
+<TEXTURE NAME="ARMS_DIFF" PATH="rpm2\arms1.dds"/>
+<TEXTURE NAME="SEATBELTS_DIFF" PATH="rpm2\belts1.dds"/>
+<TEXTURE NAME="GLOVES_DIFF" PATH="rpm2\gloves1.dds"/>
+<TEXTURE NAME="LEGS_DIFF" PATH="rpm2\legs1.dds"/>
+</OUTFIT_OVERRIDE>
+<HELMET_OVERRIDE LIVERY="65" BASEHELMET="DEFAULT">
+<TEXTURE NAME="BODY_DIFF" PATH="rpm2\helmet.dds"/>
+</HELMET_OVERRIDE>
+
+
+<LIVERY_OVERRIDE LIVERY="66" NAME="RRC A" BASELIVERY="Chrome">
+	<PREVIEWIMAGE PATH="RRC\RRC-Preview.dds" />
+	<TEXTURE NAME="BODY" PATH="RRC\RRC-A.dds" />
+	<TEXTURE NAME="SPEC" PATH="RRC\RRC-A_spec.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="RRC\ultima_race_rim_diff.dds"  />
+	<TEXTURE NAME="WHEELSPEC" PATH="RRC\ultima_race_rim_silver_blur_spec.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="RRC\ultima_race_rim_silver_blur_diff.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="RRC\ultima_race_rim_silver_blur_spec.dds" />
+</LIVERY_OVERRIDE>
+
+
+<OUTFIT_OVERRIDE LIVERY="66" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="RRC\torso.dds" />
+	<TEXTURE NAME="ARMS_DIFF" PATH="RRC\arms.dds" />
+	<TEXTURE NAME="GLOVES_DIFF" PATH="RRC\gloves.dds" />
+	<TEXTURE NAME="LEGS_DIFF" PATH="RRC\legs.dds" />
+	<TEXTURE NAME="SEATBELTS_DIFF" PATH="RRC\belts.dds" />
+</OUTFIT_OVERRIDE>
+	
+<HELMET_OVERRIDE LIVERY="66" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="RRC\helmet.dds" />
+</HELMET_OVERRIDE>
+
+<LIVERY_OVERRIDE LIVERY="67" NAME="RRC B" BASELIVERY="Chrome">
+	<PREVIEWIMAGE PATH="RRC\RRC-PreviewB.dds" />
+	<TEXTURE NAME="BODY" PATH="RRC\RRC-B.dds" />
+	<TEXTURE NAME="SPEC" PATH="RRC\RRC-B_spec.dds" />
+	<TEXTURE NAME="WHEELDIFF" PATH="RRC\ultima_race_rim_diff1.dds"  />
+	<TEXTURE NAME="WHEELSPEC" PATH="RRC\ultima_race_rim_silver_blur_spec.dds" />
+	<TEXTURE NAME="WHEELBLURDIFF" PATH="RRC\ultima_race_rim_silver_blur_diff1.dds" />
+	<TEXTURE NAME="WHEELBLURSPEC" PATH="RRC\ultima_race_rim_silver_blur_spec.dds" />
+</LIVERY_OVERRIDE>
+
+
+<OUTFIT_OVERRIDE LIVERY="67" BASEOUTFIT="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="RRC\torso.dds" />
+	<TEXTURE NAME="ARMS_DIFF" PATH="RRC\arms.dds" />
+	<TEXTURE NAME="GLOVES_DIFF" PATH="RRC\gloves.dds" />
+	<TEXTURE NAME="LEGS_DIFF" PATH="RRC\legs.dds" />
+	<TEXTURE NAME="SEATBELTS_DIFF" PATH="RRC\belts.dds" />
+</OUTFIT_OVERRIDE> 
+	
+<HELMET_OVERRIDE LIVERY="67" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="RRC\helmet.dds" />
+</HELMET_OVERRIDE> 
+
+
+<LIVERY_OVERRIDE LIVERY="68" NAME="SRGP-W" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="SRGP\srgpworrypreview.dds" />
+	  <TEXTURE NAME="BODY" PATH="SRGP\srgpworrybody.dds" />
+    </LIVERY_OVERRIDE>
+
+	<HELMET_OVERRIDE LIVERY="68" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/srgp10helmet.dds" />
+           </HELMET_OVERRIDE>
+	
+	<OUTFIT_OVERRIDE LIVERY="68" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/srgpmodtorso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="SRGP/srgpmodarm.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="SRGP/srgpgtglove.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="SRGP/srgpmodleg.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SRGP/srgpmodbelt.dds" />
+    </OUTFIT_OVERRIDE>
+    
+    <LIVERY_OVERRIDE LIVERY="69" NAME="SRGP-D" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="SRGP\srgpdopeypreview.dds" />
+	  <TEXTURE NAME="BODY" PATH="SRGP\srgpdopeybody.dds" />
+    </LIVERY_OVERRIDE>
+
+	<HELMET_OVERRIDE LIVERY="69" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/srgp10helmet.dds" />
+           </HELMET_OVERRIDE>
+	
+	<OUTFIT_OVERRIDE LIVERY="69" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="SRGP/srgpmodtorso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="SRGP/srgpmodarm.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="SRGP/srgpgtglove.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="SRGP/srgpmodleg.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SRGP/srgpmodbelt.dds" />
+    </OUTFIT_OVERRIDE>
+
+
+	<HELMET_OVERRIDE LIVERY="70" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="SSR/SSR_Helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="SSR/SSR_Visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="70" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="SSR/SSR Torso.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="SSR/SSR Arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="SSR/SSR Gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="SSR/SSR Legs.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="SSR\SSR Gloves Spec.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SSR\SSR Seatbelt.dds" />
+	</OUTFIT_OVERRIDE>
+	<LIVERY_OVERRIDE LIVERY="70" NAME="SemiSlickRacing Community" BASELIVERY="Matte">
+		<PREVIEWIMAGE PATH="SSR/SSR Preview.dds" />
+		<TEXTURE NAME="BODY" PATH="SSR/SSR_Livery.dds" />
+	</LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="71" BASEHELMET="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="SSR/SSR_Helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="SSR/SSR_Visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="71" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="SSR/SSR Torso.dds" />
+		<TEXTURE NAME="ARMS_DIFF" PATH="SSR/SSR Arms.dds" />
+		<TEXTURE NAME="GLOVES_DIFF" PATH="SSR/SSR Gloves.dds" />
+		<TEXTURE NAME="LEGS_DIFF" PATH="SSR/SSR Legs.dds" />
+		<TEXTURE NAME="GLOVES_SPEC" PATH="SSR\SSR Gloves Spec.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="SSR\SSR Seatbelt.dds" />
+	</OUTFIT_OVERRIDE>
+	<LIVERY_OVERRIDE LIVERY="71" NAME="SemiSlickRacing Community" BASELIVERY="Matte">
+		<PREVIEWIMAGE PATH="SSR/SSR Preview.dds" />
+		<TEXTURE NAME="BODY" PATH="SSR/SSR_Livery.dds" />
+	</LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="72" NAME="My Racing Team #37" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="TRE\preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="TRE\body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="TRE\body_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="TRE\body_fresnel.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="TRE\wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="TRE\wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="TRE\wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="TRE\wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+  <LIVERY_OVERRIDE LIVERY="73" NAME="My Racing Team #37" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="TRE\preview.dds" />
+	  <TEXTURE NAME="BODY" PATH="TRE\body.dds" />
+	  <TEXTURE NAME="SPEC" PATH="TRE\body_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="TRE\body_fresnel.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="TRE\wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="TRE\wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="TRE\wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="TRE\wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+
+
+<LIVERY_OVERRIDE LIVERY="74" NAME="IND" BASELIVERY="Chrome">
+	  <PREVIEWIMAGE PATH="IND\MiniJCW_thumb.dds" />
+	  <TEXTURE NAME="BODY" PATH="IND\MiniJCW.dds" />
+	  <TEXTURE NAME="SPEC" PATH="IND\MiniJCW_spec.dds" />
+	  <TEXTURE NAME="FRESNEL" PATH="IND\MiniJCW_fresnel.dds" />
+	  <TEXTURE NAME="PLATE" PATH="IND\MiniJCW_Plate.dds" />
+	  <TEXTURE NAME="PLATEG" PATH="IND\MiniJCW_PlateGlow.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="IND\MiniJCW_Wheel.dds" />
+	  <TEXTURE NAME="WHEELSPEC" PATH="IND\MiniJCW_Wheelspec.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="IND\MiniJCW_Wheelblur.dds" />
+	  <TEXTURE NAME="WHEELBLURSPEC" PATH="IND\MiniJCW_Wheelblurspec.dds" />
+    </LIVERY_OVERRIDE>
+
+<HELMET_OVERRIDE LIVERY="74" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="IND\helmet.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="IND\visor.dds" />
+    </HELMET_OVERRIDE>
+
+<OUTFIT_OVERRIDE LIVERY="74" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="IND\modern_torso.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="IND\modern_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="IND\gt_modern_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="IND\modern_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="IND\modern_safety_harness.dds" />
+    </OUTFIT_OVERRIDE>
+
+
+</USER_OVERRIDES>
