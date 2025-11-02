@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+   
+
+
+	<LIVERY_OVERRIDE LIVERY="51" NAME="IND" BASELIVERY="Default">
+	<PREVIEWIMAGE PATH="IND\IND preview.dds" />
+	<TEXTURE NAME="BODY" PATH="IND\IND body.dds" />
+	</LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+	<TEXTURE NAME="BODY_DIFF" PATH="IND\86_helmet.dds" />
+    	<TEXTURE NAME="VISOR_DIFF" PATH="IND\86_Lotus_visor.dds" />
+	</HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="IND\86_body.dds" />
+        <TEXTURE NAME="ARMS_DIFF" PATH="IND\86_Lotus_arms.dds" />
+        <TEXTURE NAME="GLOVES_DIFF" PATH="IND\86_gloves.dds" />
+        <TEXTURE NAME="LEGS_DIFF" PATH="IND\86_Lotus_legs.dds" />
+        <TEXTURE NAME="SEATBELTS_DIFF" PATH="IND\black_safety_harness.dds" />
+        </OUTFIT_OVERRIDE>
+
+
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="AMS2CC" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="ams2cc\previewB.dds" />
+	  <TEXTURE NAME="BODY" PATH="ams2cc\bodyB.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="52" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="ams2cc\helmetB.dds" />
+        <TEXTURE NAME="VISOR_DIFF" PATH="ams2cc\visorB.dds" />
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="52" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="ams2cc\torsoB.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="ams2cc\armsB.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="ams2cc\glovesB.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="ams2cc\gloves_spec.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="ams2cc\legsB.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="ams2cc\beltsB.dds"/>
+	</OUTFIT_OVERRIDE>
+
+
+  
+</USER_OVERRIDES>
