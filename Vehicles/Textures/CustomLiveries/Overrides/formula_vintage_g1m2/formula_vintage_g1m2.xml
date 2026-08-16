@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+
+    <LIVERY_OVERRIDE LIVERY="51" NAME="RPM/AMSU V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="rpm_amsu\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="rpm_amsu\body.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="51" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="rpm_amsu\helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="rpm_amsu\visor.dds"/>
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="51" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="rpm_amsu\torso.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="rpm_amsu\arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="rpm_amsu\gloves.dds"/>
+		<TEXTURE NAME="GLOVES_SPEC" PATH="rpm_amsu\gloves_spec.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="rpm_amsu\legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="rpm_amsu\belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="52" NAME="10T V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="10T\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="10T\body.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="53" NAME="NRT V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="nrt\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="nrt\body.dds" />
+    </LIVERY_OVERRIDE>
+	<HELMET_OVERRIDE LIVERY="53" BASEHELMET="DEFAULT">
+        <TEXTURE NAME="BODY_DIFF" PATH="nrt\helmet.dds" />
+		<TEXTURE NAME="VISOR_DIFF" PATH="nrt\visor.dds"/>
+    </HELMET_OVERRIDE>
+	<OUTFIT_OVERRIDE LIVERY="53" BASEOUTFIT="DEFAULT">
+		<TEXTURE NAME="BODY_DIFF" PATH="nrt\torso.dds"/>
+		<TEXTURE NAME="ARMS_DIFF" PATH="nrt\arms.dds"/>
+		<TEXTURE NAME="GLOVES_DIFF" PATH="nrt\gloves.dds"/>
+		<TEXTURE NAME="LEGS_DIFF" PATH="nrt\legs.dds"/>
+		<TEXTURE NAME="SEATBELTS_DIFF" PATH="nrt\belts.dds"/>
+	</OUTFIT_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="54" NAME="Slip Stream Club50 V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="Slip Club50\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="Slip Club50\body.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="55" NAME="MVRC M2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="MVRC_Formula_Vintage_M2/MVRC_Formula_Vintage_M2_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="MVRC_Formula_Vintage_M2/MVRC_Formula_Vintage_M2.dds" />
+        <TEXTURE NAME="BODY" PATH="MVRC_Formula_Vintage_M2/MVRC_Formula_Vintage_M2.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="56" NAME="KCSR V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="KCSR\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="KCSR\body.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="57" NAME="RRC V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="RRC\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="RRC\body.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="58" NAME="SRGP V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="SRGP\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="SRGP\body.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="59" NAME="TRE V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="TRE\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="TRE\body.dds" />
+    </LIVERY_OVERRIDE>
+
+    <LIVERY_OVERRIDE LIVERY="60" NAME="IND V12" BASELIVERY="Default">
+		<PREVIEWIMAGE PATH="IND\preview.dds" />
+		<TEXTURE NAME="BODY" PATH="IND\body.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
