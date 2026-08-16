@@ -11,7 +11,7 @@ Automobilista 2 Community Cup
 ### Manual Installation
 - Extract the downloaded livery pack `~/Vehicles/Textures/CustomLiveries/Overrides/<vehicle_id>/` directory/directories in the archive to the following game directory in your steamapps: `/Steam/steamapps/common/Automobilista 2/Vehicles/Textures/CustomLiveries/Overrides/`
 
-### Easy Installation
+### Easy Installation - See below for easy / AMS2CM installation
 
 - Drag the complete downloaded livery pack `.zip` directly into `AMS2 CM` and hit apply.
 
